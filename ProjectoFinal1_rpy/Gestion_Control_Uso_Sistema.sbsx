@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0</version>
+	<lang>C++</lang>
+	<BuildNo>202402122040</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 78a3bc6c-9804-4a6a-bcd6-34c42de7a198</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Gestion_Control_Uso_Sistema</_name>
+			<_modifiedTimeWeak type="a">7.27.2024::8:38:16</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Caso_Uso.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUS::Caso_Uso</_hsubsystem>
+					<_hname type="a">Diagrama de Paquetes</_hname>
+					<_hid type="a">GUID fe484d1d-7f95-4bfd-9d56-521279517e2b</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.27.2024::8:38:16</_modifiedTime>
+			<_lastID type="a">3</_lastID>
+			<weakCGTime type="a">7.27.2024::8:38:16</weakCGTime>
+			<strongCGTime type="a">7.27.2024::8:38:16</strongCGTime>
+			<_defaultComposite type="s">GUID fcc29a85-aad7-446c-8f42-a4cda13574c5</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID e15bbbb5-8d90-4747-9862-3db879fba71b</value>
+				<value>GUID bcd31cc5-b576-47ca-b12d-a49512c0c31a</value>
+				<value>GUID 5e92bba9-380b-43be-a0a2-801781e2cfea</value>
+				<value>GUID fcc29a85-aad7-446c-8f42-a4cda13574c5</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID e15bbbb5-8d90-4747-9862-3db879fba71b</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Reutilizable</_name>
+			<_modifiedTimeWeak type="a">7.27.2024::8:36:52</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.27.2024::8:36:52</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Reutilizable.sbsx</_hfilename>
+					<_hname type="a">Reutilizable</_hname>
+					<_hid type="a">GUID 82e6b46c-4cac-43ab-9fa9-ac4ea0d4aa63</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 78a3bc6c-9804-4a6a-bcd6-34c42de7a198</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID bcd31cc5-b576-47ca-b12d-a49512c0c31a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Seguridad</_name>
+			<_modifiedTimeWeak type="a">7.27.2024::8:37:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.27.2024::8:37:30</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
+					<_hname type="a">Seguridad</_hname>
+					<_hid type="a">GUID 3710babc-9d81-4497-a1fc-11260884c91e</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 78a3bc6c-9804-4a6a-bcd6-34c42de7a198</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 5e92bba9-380b-43be-a0a2-801781e2cfea</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Capacitacion_Registro_Empleado_Sistema</_name>
+			<_modifiedTimeWeak type="a">7.27.2024::8:38:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.27.2024::8:38:16</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Capacitacion_Registro_Empleado_Sistema.sbsx</_hfilename>
+					<_hname type="a">Capacitacion_Registro_Empleado_Sistema</_hname>
+					<_hid type="a">GUID b1cfd38e-c940-407b-9e68-b32247035485</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 78a3bc6c-9804-4a6a-bcd6-34c42de7a198</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID fcc29a85-aad7-446c-8f42-a4cda13574c5</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
