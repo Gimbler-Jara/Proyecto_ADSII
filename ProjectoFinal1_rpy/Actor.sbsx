@@ -12,23 +12,23 @@
 			<_id type="a">GUID bf4da0b7-2102-48c8-a648-088547b17e7d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Actor</_name>
-			<_modifiedTimeWeak type="a">7.27.2024::8:40:59</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::6:37:5</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
-					<_hfilename type="a">.\MCUS.sbsx</_hfilename>
-					<_hsubsystem type="a">MCUS</_hsubsystem>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
 					<_hname type="a">Organizacion MCUS</_hname>
 					<_hid type="a">GUID 95a8490f-f7e9-4623-b6f8-af262b240024</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.27.2024::8:40:59</_modifiedTime>
+			<_modifiedTime type="a">9.15.2024::6:47:9</_modifiedTime>
 			<_lastID type="a">5</_lastID>
-			<weakCGTime type="a">7.27.2024::8:40:59</weakCGTime>
+			<weakCGTime type="a">9.15.2024::6:37:5</weakCGTime>
 			<strongCGTime type="a">7.27.2024::8:24:24</strongCGTime>
 			<_defaultComposite type="s">GUID a19d381d-c808-4418-80e2-fc1e3935ebb1</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 667f839a-f553-4043-8918-6d561f68b9ad</value>
 				<value>GUID a19d381d-c808-4418-80e2-fc1e3935ebb1</value>
@@ -741,7 +741,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -754,15 +754,15 @@
 			<_id type="a">GUID 00678730-d585-4897-b5d4-7061422e7cf9</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Administrador</_name>
-			<_modifiedTimeWeak type="a">7.27.2024::8:41:18</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::6:53:59</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 667f839a-f553-4043-8918-6d561f68b9ad</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.27.2024::8:41:18</_modifiedTime>
-			<weakCGTime type="a">7.27.2024::8:41:18</weakCGTime>
+			<_modifiedTime type="a">9.15.2024::6:53:59</_modifiedTime>
+			<weakCGTime type="a">9.15.2024::6:53:59</weakCGTime>
 			<strongCGTime type="a">7.27.2024::8:40:23</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -771,12 +771,15 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 72f4524a-d817-4079-9393-3753526a3678</value>
+				<value>GUID 220ce787-131f-4c76-9069-7b23c885da46</value>
+				<value>GUID 33978f47-53bf-4a20-96d2-97b988b48405</value>
+				<value>GUID 2220e8d1-1e17-4563-8c71-0a61ad5bacbf</value>
 			</AggregatesList>
 		</IActor>
 		<IGeneralization type="e">
 			<_id type="a">GUID 72f4524a-d817-4079-9393-3753526a3678</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -786,19 +789,106 @@
 			<_inheritanceType type="a">iPublic</_inheritanceType>
 			<_isVirtual type="a">0</_isVirtual>
 		</IGeneralization>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 220ce787-131f-4c76-9069-7b23c885da46</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsRegistrar a los empleados</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::6:52:20</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Registrar a los empleados</_hname>
+					<_hid type="a">GUID 4f4fdb9f-7cb0-46e1-87b7-efd00bc40e03</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hclass type="a">Registrar a los empleados</_hclass>
+					<_hname type="a">itsAdministrador</_hname>
+					<_hid type="a">GUID 60c0328d-11b1-4c62-8694-f63eec26805d</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 33978f47-53bf-4a20-96d2-97b988b48405</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMantener a los empleados</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::6:51:57</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Mantener a los empleados</_hname>
+					<_hid type="a">GUID a1bf3ae2-a888-4b1d-a1be-82da41fdff45</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hclass type="a">Mantener a los empleados</_hclass>
+					<_hname type="a">itsAdministrador</_hname>
+					<_hid type="a">GUID bfc41bc8-e36b-41ef-9c35-577bbeb537f5</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 2220e8d1-1e17-4563-8c71-0a61ad5bacbf</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsConsultar empleados</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::6:54:5</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Consultar empleados</_hname>
+					<_hid type="a">GUID 2e40ae14-fd4c-4d63-b7ef-b5bb6004efce</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hclass type="a">Consultar empleados</_hclass>
+					<_hname type="a">itsAdministrador</_hname>
+					<_hid type="a">GUID a102ddd4-6427-4ccf-a999-f2caa1e91500</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID 99fa7a7f-aa38-4ce7-a8e0-7a56be496d3c</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Empleado</_name>
-			<_modifiedTimeWeak type="a">7.27.2024::8:41:28</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::6:45:32</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 667f839a-f553-4043-8918-6d561f68b9ad</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.27.2024::8:41:28</_modifiedTime>
-			<weakCGTime type="a">7.27.2024::8:41:28</weakCGTime>
+			<_modifiedTime type="a">9.15.2024::6:45:32</_modifiedTime>
+			<weakCGTime type="a">9.15.2024::6:45:32</weakCGTime>
 			<strongCGTime type="a">7.27.2024::8:40:37</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -807,12 +897,13 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 299e303c-207d-4da4-9904-70c315fb528f</value>
+				<value>GUID cceaa0e0-53c7-4835-a2f6-9056520c1f9d</value>
 			</AggregatesList>
 		</IActor>
 		<IGeneralization type="e">
 			<_id type="a">GUID 299e303c-207d-4da4-9904-70c315fb528f</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -822,19 +913,48 @@
 			<_inheritanceType type="a">iPublic</_inheritanceType>
 			<_isVirtual type="a">0</_isVirtual>
 		</IGeneralization>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID cceaa0e0-53c7-4835-a2f6-9056520c1f9d</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsRegistrar asistencia entrada y salida</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::6:52:33</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Registrar asistencia entrada y salida</_hname>
+					<_hid type="a">GUID 42880724-1a99-4f2c-a9b8-edc019d5aa66</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hclass type="a">Registrar asistencia entrada y salida</_hclass>
+					<_hname type="a">itsEmpleado</_hname>
+					<_hid type="a">GUID 0beef73a-4040-4c07-a194-c1276480550b</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID 76a3039f-e3f0-417a-ad4c-e9887fa75f9b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">RRHH</_name>
-			<_modifiedTimeWeak type="a">7.27.2024::8:41:23</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::6:37:20</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 667f839a-f553-4043-8918-6d561f68b9ad</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.27.2024::8:41:23</_modifiedTime>
-			<weakCGTime type="a">7.27.2024::8:41:23</weakCGTime>
+			<_modifiedTime type="a">9.15.2024::6:37:20</_modifiedTime>
+			<weakCGTime type="a">9.15.2024::6:37:20</weakCGTime>
 			<strongCGTime type="a">7.27.2024::8:40:48</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -843,12 +963,14 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID bcce2023-e2ef-49a8-984a-3c794549e7e2</value>
+				<value>GUID d57e3247-f2e1-401e-b76a-4357843e6f9f</value>
+				<value>GUID eb67080c-3efe-4f24-8f98-c92912ab6cce</value>
 			</AggregatesList>
 		</IActor>
 		<IGeneralization type="e">
 			<_id type="a">GUID bcce2023-e2ef-49a8-984a-3c794549e7e2</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -858,6 +980,64 @@
 			<_inheritanceType type="a">iPublic</_inheritanceType>
 			<_isVirtual type="a">0</_isVirtual>
 		</IGeneralization>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d57e3247-f2e1-401e-b76a-4357843e6f9f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsGenerar reportes de asistencia</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::6:52:27</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Generar reportes de asistencia</_hname>
+					<_hid type="a">GUID 9e52d929-a40c-45c2-a0c8-c63ce485af97</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hclass type="a">Generar reportes de asistencia</_hclass>
+					<_hname type="a">itsRRHH</_hname>
+					<_hid type="a">GUID a38585cd-d562-42cc-ac75-f592f0ec6f56</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID eb67080c-3efe-4f24-8f98-c92912ab6cce</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsRegistrar a los empleados</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::6:52:20</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Registrar a los empleados</_hname>
+					<_hid type="a">GUID 4f4fdb9f-7cb0-46e1-87b7-efd00bc40e03</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hclass type="a">Registrar a los empleados</_hclass>
+					<_hname type="a">itsRRHH</_hname>
+					<_hid type="a">GUID f9a9cc7f-ab67-4218-aa87-365b5f2b9733</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID 1e742494-11e8-4f56-a19f-4212921fbc55</_id>
 			<_myState type="a">8192</_myState>
