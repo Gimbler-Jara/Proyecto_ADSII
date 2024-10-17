@@ -25,7 +25,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">9.15.2024::6:15:18</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::6:22:6</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -33,9 +33,9 @@
 					<_hid type="a">GUID 6bc4a0d8-2cd7-49db-af87-2a7ff3cf3ebf</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">9.15.2024::6:15:26</_modifiedTime>
+			<_modifiedTime type="a">9.15.2024::6:22:6</_modifiedTime>
 			<_lastID type="a">34</_lastID>
-			<weakCGTime type="a">9.15.2024::6:15:18</weakCGTime>
+			<weakCGTime type="a">9.15.2024::6:22:6</weakCGTime>
 			<strongCGTime type="a">9.15.2024::6:9:42</strongCGTime>
 			<_defaultComposite type="s">GUID 48f188b3-bdcb-46ea-a4eb-e3027a7540e3</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -4561,8 +4561,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::6:9:30</_modifiedTime>
-			<_lastModifiedTime type="a">9.15.2024::6:9:30</_lastModifiedTime>
+			<_modifiedTime type="a">9.15.2024::6:22:30</_modifiedTime>
+			<_lastModifiedTime type="a">9.15.2024::6:22:30</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -5617,7 +5617,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0556596 0 0 0.0627658 728.519 463.278 </m_transform>
+			<m_transform type="a">0.0556596 0 0 0.0627658 484.519 393.278 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -6000,7 +6000,7 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 833 519  833 581  </m_arrow>
+			<m_arrow type="a">2 589 449  589 581  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -6690,7 +6690,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">obtiene</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -6959,6 +6958,7 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
+					<m_str type="a">realiza</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -7343,7 +7343,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0557129 0 0 0.0597148 21.8886 299.354 </m_transform>
+			<m_transform type="a">0.0557129 0 0 0.0597148 374.889 383.354 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -7544,7 +7544,7 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 157 348  157 526  </m_arrow>
+			<m_arrow type="a">4 484 432  484 484  148 484  148 526  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -7575,6 +7575,7 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
+					<m_str type="a">brinda</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -7704,7 +7705,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0632672 0 0 0.0623886 46.8735 91.4742 </m_transform>
+			<m_transform type="a">0.0632672 0 0 0.0623886 339.874 232.474 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -7794,7 +7795,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0774315 0 0 0.0499109 221.845 229.579 </m_transform>
+			<m_transform type="a">0.0774315 0 0 0.0499109 28.845 59.579 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -7905,7 +7906,7 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 163 147  163 274  </m_arrow>
+			<m_arrow type="a">4 457 288  457 114  -21 114  -21 104  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -7936,6 +7937,7 @@
 			<m_bShowQualifier2 type="a">1</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
+					<m_str type="a">realiza</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -8223,6 +8225,7 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
+					<m_str type="a">genera</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -8336,7 +8339,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0613787 0 0 0.0552585 846.877 666.82 </m_transform>
+			<m_transform type="a">0.0613787 0 0 0.0552585 481.877 535.82 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -8426,7 +8429,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0764873 0 0 0.0606061 41.847 645.061 </m_transform>
+			<m_transform type="a">0.0764873 0 0 0.0606061 332.847 527.061 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -8627,7 +8630,7 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 230 699  230 668  </m_arrow>
+			<m_arrow type="a">2 418 581  418 668  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -8674,6 +8677,7 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
+					<m_str type="a">itsEN_Gestion_Incidencia</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -8808,7 +8812,7 @@
 					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_rpn>
-			<m_arrow type="a">2 634 716  634 668  </m_arrow>
+			<m_arrow type="a">4 432 585  432 626  539 626  539 668  </m_arrow>
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">2</m_line_style>
@@ -8855,6 +8859,7 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
+					<m_str type="a">itsEN_Gestion_Incidencia</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -13517,7 +13522,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 3ece3091-8044-490a-95b7-4e6fd48b4e00</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -13550,7 +13555,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 708d457d-757a-4a31-9586-2fa9f8ffe657</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -13579,6 +13584,12 @@
 				<_body type="a">El sistema realiza evaluaci%F3n autom%E1tica</_body>
 			</IAction>
 			</_entryAction>
+			<_swimlane type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID c829c64c-c139-4eed-9f5b-91cab15e6ffe</_hid>
+				</IHandle>
+			</_swimlane>
 		</IState>
 		<IState type="e">
 			<_id type="a">GUID f1e0d4ee-a1be-46cd-b946-05d396997fcc</_id>
@@ -13597,6 +13608,12 @@
 				<_body type="a">Realiza retroalimentacion</_body>
 			</IAction>
 			</_entryAction>
+			<_swimlane type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID c829c64c-c139-4eed-9f5b-91cab15e6ffe</_hid>
+				</IHandle>
+			</_swimlane>
 		</IState>
 		<IState type="e">
 			<_id type="a">GUID 6a0bf2fb-fd65-41a5-ad46-910f80cd4b8e</_id>
@@ -13615,6 +13632,12 @@
 				<_body type="a">Evalua la informacion obtenida</_body>
 			</IAction>
 			</_entryAction>
+			<_swimlane type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID c829c64c-c139-4eed-9f5b-91cab15e6ffe</_hid>
+				</IHandle>
+			</_swimlane>
 		</IState>
 		<IObjectNode type="e">
 			<_id type="a">GUID 441cbcfe-56e1-45cc-8488-c880c6970fbd</_id>
@@ -13625,6 +13648,12 @@
 			<_parent type="s">GUID c08cdd09-af55-4607-a7e7-a519f6bf311e</_parent>
 			<_stateType type="a">ObjectFlow</_stateType>
 			<_defaultTrans type="s"></_defaultTrans>
+			<_swimlane type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID c829c64c-c139-4eed-9f5b-91cab15e6ffe</_hid>
+				</IHandle>
+			</_swimlane>
 			<_represents type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -13641,6 +13670,12 @@
 			<_parent type="s">GUID c08cdd09-af55-4607-a7e7-a519f6bf311e</_parent>
 			<_stateType type="a">ObjectFlow</_stateType>
 			<_defaultTrans type="s"></_defaultTrans>
+			<_swimlane type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID c829c64c-c139-4eed-9f5b-91cab15e6ffe</_hid>
+				</IHandle>
+			</_swimlane>
 			<_represents type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -13657,6 +13692,12 @@
 			<_parent type="s">GUID c08cdd09-af55-4607-a7e7-a519f6bf311e</_parent>
 			<_stateType type="a">ObjectFlow</_stateType>
 			<_defaultTrans type="s"></_defaultTrans>
+			<_swimlane type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID c829c64c-c139-4eed-9f5b-91cab15e6ffe</_hid>
+				</IHandle>
+			</_swimlane>
 			<_represents type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -13673,6 +13714,12 @@
 			<_parent type="s">GUID c08cdd09-af55-4607-a7e7-a519f6bf311e</_parent>
 			<_stateType type="a">ObjectFlow</_stateType>
 			<_defaultTrans type="s"></_defaultTrans>
+			<_swimlane type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID c829c64c-c139-4eed-9f5b-91cab15e6ffe</_hid>
+				</IHandle>
+			</_swimlane>
 			<_represents type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
@@ -13697,6 +13744,12 @@
 				<_body type="a">Sistema genera reporte autom%E1tico</_body>
 			</IAction>
 			</_entryAction>
+			<_swimlane type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID c829c64c-c139-4eed-9f5b-91cab15e6ffe</_hid>
+				</IHandle>
+			</_swimlane>
 		</IState>
 		<IState type="e">
 			<_id type="a">GUID 76bc3df9-ee1d-4abe-ae3a-95a1f2dccbce</_id>
@@ -13715,6 +13768,12 @@
 				<_body type="a">Accede a sistema asistencia</_body>
 			</IAction>
 			</_entryAction>
+			<_swimlane type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID c829c64c-c139-4eed-9f5b-91cab15e6ffe</_hid>
+				</IHandle>
+			</_swimlane>
 		</IState>
 		<IState type="e">
 			<_id type="a">GUID d4851500-3131-4d05-b89c-f84320fe4c7e</_id>
@@ -13739,7 +13798,7 @@
 				<_id type="a">GUID 9816dac3-a3c0-4777-a0d6-a5328d59bb32</_id>
 				<_myState type="a">4096</_myState>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">Sistema env%EDa notificaci%F3n autom%E1tica de retroalimentaci%F3n</_body>
 			</IAction>
 			</_entryAction>
@@ -19363,7 +19422,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID da2ec10a-5389-4a94-b287-2d303c2bf69e</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -19396,7 +19455,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 5ebbcc2c-4790-4f39-a6b0-48c92c3d42f8</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -19429,7 +19488,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID 42ce9c5b-1983-4d8b-9037-eb94e508dded</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -19773,7 +19832,7 @@
 				<_id type="a">GUID 8b5895c1-9ca8-4452-b95a-f6fc04304e03</_id>
 				<_myState type="a">4096</_myState>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">El sistema valida los datos</_body>
 			</IAction>
 			</_entryAction>
@@ -19797,7 +19856,7 @@
 				<_id type="a">GUID 3d2b8e82-95e4-4a16-8e81-c66bef64dd70</_id>
 				<_myState type="a">4096</_myState>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">El sistema env%EDa alerta de capacitaci%F3n</_body>
 			</IAction>
 			</_entryAction>
@@ -25549,7 +25608,7 @@
 		<ILabel type="e">
 			<_id type="a">GUID ee8076f0-7452-4c61-8349-ec6936d9d0d7</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_itsTrigger>NULL</_itsTrigger>
 			<_itsGuard>NULL</_itsGuard>
 			<_itsAction>NULL</_itsAction>
@@ -26009,7 +26068,7 @@
 				<_id type="a">GUID 0edd62ab-b556-430a-8af2-a4c54baa97c1</_id>
 				<_myState type="a">4096</_myState>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+				<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 				<_body type="a">Sistema env%EDa notificaci%F3n de incidencia gestionada</_body>
 			</IAction>
 			</_entryAction>
@@ -29551,7 +29610,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">9.15.2024::5:2:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::5:6:26</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>

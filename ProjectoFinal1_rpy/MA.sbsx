@@ -25,7 +25,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">9.15.2024::5:14:4</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::8:11:57</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -33,12 +33,12 @@
 					<_hid type="a">GUID 6bc4a0d8-2cd7-49db-af87-2a7ff3cf3ebf</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">9.15.2024::5:14:4</_modifiedTime>
-			<weakCGTime type="a">9.15.2024::5:14:4</weakCGTime>
+			<_modifiedTime type="a">9.15.2024::8:11:57</_modifiedTime>
+			<weakCGTime type="a">9.15.2024::8:11:57</weakCGTime>
 			<strongCGTime type="a">9.15.2024::5:14:4</strongCGTime>
 			<_defaultComposite type="s">GUID eb8f713d-5ada-4b5e-b8ce-ad86aa4191df</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID eb8f713d-5ada-4b5e-b8ce-ad86aa4191df</value>
 			</AggregatesList>
@@ -48,7 +48,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">

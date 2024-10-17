@@ -12,8 +12,8 @@
 			<_id type="a">GUID 56f5a2f1-7216-4ac1-aecf-958dd60f8ef2</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">ProjectoFinal1</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::6:15:18</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::6:15:18</_modifiedTime>
+			<_modifiedTimeWeak type="a">9.15.2024::8:11:57</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::8:11:57</_modifiedTime>
 			<_lastID type="a">11</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -260,8 +260,8 @@
 			</_properties>
 			<_name type="a">Diagrama Principal de Proyecto</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::6:15:26</_modifiedTime>
-			<_lastModifiedTime type="a">9.15.2024::6:15:26</_lastModifiedTime>
+			<_modifiedTime type="a">9.15.2024::8:11:57</_modifiedTime>
+			<_lastModifiedTime type="a">9.15.2024::8:11:57</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -325,10 +325,10 @@
 				<value>GUID fecb4386-4578-4dff-a090-6a47358f0430</value>
 				<value>GUID d0c4ba5b-f298-469e-95a4-3ca80e12a73c</value>
 				<value>GUID 9b0998de-25f2-4bf3-8703-58ca96468902</value>
-				<value>GUID e2a2d82a-87d1-4e4e-a250-ca6c507a5de6</value>
-				<value>GUID fadfa491-f3b0-4152-8db1-0960607f8452</value>
-				<value>GUID 9b86095d-5789-41ce-8adc-d83532e06176</value>
-				<value>GUID dc5c0c7e-88ae-4e89-8b54-a823dd47f2fb</value>
+				<value>GUID 25bad093-3b4a-4c09-bc4f-68c14b00f985</value>
+				<value>GUID 552a4505-c71c-4d9b-8740-c72b3548deec</value>
+				<value>GUID 0ea07c2f-a4d4-4b30-b3b4-4d09f91f734c</value>
+				<value>GUID cbface12-907e-414e-95c6-6ea112b2bd7b</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -442,7 +442,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">Diagrama Principal de Proyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID e2a2d82a-87d1-4e4e-a250-ca6c507a5de6</_hid>
+					<_hid type="a">GUID 25bad093-3b4a-4c09-bc4f-68c14b00f985</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -501,7 +501,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">Diagrama Principal de Proyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID fadfa491-f3b0-4152-8db1-0960607f8452</_hid>
+					<_hid type="a">GUID 552a4505-c71c-4d9b-8740-c72b3548deec</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -611,7 +611,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">Diagrama Principal de Proyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID 9b86095d-5789-41ce-8adc-d83532e06176</_hid>
+					<_hid type="a">GUID 0ea07c2f-a4d4-4b30-b3b4-4d09f91f734c</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -670,7 +670,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">Diagrama Principal de Proyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID dc5c0c7e-88ae-4e89-8b54-a823dd47f2fb</_hid>
+					<_hid type="a">GUID cbface12-907e-414e-95c6-6ea112b2bd7b</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -678,7 +678,7 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 		</CGIPackage>
 		<CGIImageData type="e">
-			<_id type="a">GUID e2a2d82a-87d1-4e4e-a250-ca6c507a5de6</_id>
+			<_id type="a">GUID 25bad093-3b4a-4c09-bc4f-68c14b00f985</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -709,7 +709,7 @@
 			<m_fileModifiedTime type="a">1.2.2021::8:18:46</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID fadfa491-f3b0-4152-8db1-0960607f8452</_id>
+			<_id type="a">GUID 552a4505-c71c-4d9b-8740-c72b3548deec</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -740,7 +740,7 @@
 			<m_fileModifiedTime type="a">1.2.2021::8:13:42</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID 9b86095d-5789-41ce-8adc-d83532e06176</_id>
+			<_id type="a">GUID 0ea07c2f-a4d4-4b30-b3b4-4d09f91f734c</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -771,7 +771,7 @@
 			<m_fileModifiedTime type="a">8.11.2021::17:15:17</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID dc5c0c7e-88ae-4e89-8b54-a823dd47f2fb</_id>
+			<_id type="a">GUID cbface12-907e-414e-95c6-6ea112b2bd7b</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
