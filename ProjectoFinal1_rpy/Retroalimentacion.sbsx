@@ -12,7 +12,7 @@
 			<_id type="a">GUID a3103920-8316-4a70-9f23-81cb0a95fe1a</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Retroalimentacion</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::5:9:32</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::6:9:10</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,9 +22,9 @@
 					<_hid type="a">GUID 4650b7e7-2ffa-40f6-a5d5-249428190629</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">9.15.2024::5:9:32</_modifiedTime>
+			<_modifiedTime type="a">9.15.2024::6:9:10</_modifiedTime>
 			<_lastID type="a">9</_lastID>
-			<weakCGTime type="a">9.15.2024::5:9:32</weakCGTime>
+			<weakCGTime type="a">9.15.2024::6:9:10</weakCGTime>
 			<strongCGTime type="a">8.19.2024::5:16:32</strongCGTime>
 			<_defaultComposite type="s">GUID 8bf7da52-d7fd-4b7a-9e3e-610cf516a41d</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -2502,7 +2502,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Desktop\Cibertec_laboratorio\Ciclo4\Analisi y Dise%F1os de Sistemas II\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -2590,7 +2590,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Desktop\Cibertec_laboratorio\Ciclo4\Analisi y Dise%F1os de Sistemas II\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Boundary</_hname>
 							<_hid type="a">GUID 3fecd8a3-2e8f-4b5e-a0be-26d2b14450f3</_hid>
@@ -2701,7 +2701,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Desktop\Cibertec_laboratorio\Ciclo4\Analisi y Dise%F1os de Sistemas II\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Control</_hname>
 							<_hid type="a">GUID 83c41daa-5f8e-446a-a638-1dc09ef00861</_hid>
@@ -2828,7 +2828,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Desktop\Cibertec_laboratorio\Ciclo4\Analisi y Dise%F1os de Sistemas II\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -2870,7 +2870,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Desktop\Cibertec_laboratorio\Ciclo4\Analisi y Dise%F1os de Sistemas II\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -3041,7 +3041,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Desktop\Cibertec_laboratorio\Ciclo4\Analisi y Dise%F1os de Sistemas II\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -3049,14 +3049,14 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">9.15.2024::7:22:24</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::6:9:22</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID f3795927-0115-464e-9f81-c3a6cb2c353f</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">9.15.2024::5:8:28</_modifiedTime>
+			<_modifiedTime type="a">9.15.2024::6:9:22</_modifiedTime>
 			<_lastID type="a">4</_lastID>
 			<weakCGTime type="a">9.15.2024::7:22:24</weakCGTime>
 			<strongCGTime type="a">9.15.2024::7:10:41</strongCGTime>
@@ -3080,42 +3080,48 @@
 			<_id type="a">GUID e8d6c6e9-882d-4ee2-aa15-9c4138c1fc2c</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">detalle</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::6:53:40</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::6:53:40</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
-					<_hname type="a">int</_hname>
-					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
-				</IHandle>
-			</_typeOf>
+			<_modifiedTimeWeak type="a">9.15.2024::6:9:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::6:9:10</_modifiedTime>
 			<_isOrdered type="a">0</_isOrdered>
 			<_protection type="a">iPublic</_protection>
 			<_static type="a">0</_static>
 			<_isReferenceAttr type="a">0</_isReferenceAttr>
 			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID 7a1777da-2abc-414b-9e2d-8525159d27ef</value>
+			</AggregatesList>
 		</IAttribute>
+		<IType type="e">
+			<_id type="a">GUID 7a1777da-2abc-414b-9e2d-8525159d27ef</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_declaration type="a">varchar(100)</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
 		<IAttribute type="e">
 			<_id type="a">GUID 5d6e7289-4c13-4d0d-b482-865b20600f9d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Fecha</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::6:53:47</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::6:53:47</_modifiedTime>
-			<_typeOf type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IType</_hm2Class>
-					<_hsubsystem type="a">PredefinedTypesCpp</_hsubsystem>
-					<_hname type="a">int</_hname>
-					<_hid type="a">GUID 6024c6ab-fe9e-402e-954f-27aca6d3b5e4</_hid>
-				</IHandle>
-			</_typeOf>
+			<_modifiedTimeWeak type="a">9.15.2024::6:9:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::6:9:22</_modifiedTime>
 			<_isOrdered type="a">0</_isOrdered>
 			<_protection type="a">iPublic</_protection>
 			<_static type="a">0</_static>
 			<_isReferenceAttr type="a">0</_isReferenceAttr>
 			<_isConstant type="a">0</_isConstant>
+			<AggregatesList type="e">
+				<value>GUID 1c933d69-c508-4488-a191-8f22208c7a3d</value>
+			</AggregatesList>
 		</IAttribute>
+		<IType type="e">
+			<_id type="a">GUID 1c933d69-c508-4488-a191-8f22208c7a3d</_id>
+			<_myState type="a">8192</_myState>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_declaration type="a">Date()</_declaration>
+			<_kind type="a">Language</_kind>
+		</IType>
 		<IAttribute type="e">
 			<_id type="a">GUID 8b9ec930-9f90-475c-8974-2fd05b6b7f58</_id>
 			<_myState type="a">8192</_myState>
@@ -3283,7 +3289,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\..\Desktop\Cibertec_laboratorio\Ciclo4\Analisi y Dise%F1os de Sistemas II\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\profiles\AnalysisProfile\AnalysisModel_.sbsx</_hfilename>
 							<_hsubsystem type="a">AnalysisModel</_hsubsystem>
 							<_hname type="a">Entity</_hname>
 							<_hid type="a">GUID e8f9fc83-cf51-4c30-80fc-ad3a4d1e28b7</_hid>
@@ -3629,8 +3635,8 @@
 				<value>GUID bdb524e0-eee2-4f82-94e1-3eee290a072c</value>
 				<value>GUID 67c58572-560f-4e2c-bd71-9d0933881e0f</value>
 				<value>GUID 8c22395e-080c-4f07-92e5-38b746856a46</value>
-				<value>GUID 9193fba0-0470-4e0d-8f32-02983ae71c3a</value>
 				<value>GUID 535a7c88-ed34-4c4c-936f-7ad69a30d5ce</value>
+				<value>GUID 987a35f5-d321-406d-9815-1c96790e8937</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -3974,7 +3980,7 @@
 			<m_pImageViewData type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">OMGEElement</_hm2Class>
-					<_hid type="a">GUID 9193fba0-0470-4e0d-8f32-02983ae71c3a</_hid>
+					<_hid type="a">GUID 987a35f5-d321-406d-9815-1c96790e8937</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 2 329  2 1451  1061 1451  1061 329  </m_polygon>
@@ -5498,37 +5504,6 @@
 			<m_fileModifiedTime type="a">8.11.2021::3:46:3</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID 9193fba0-0470-4e0d-8f32-02983ae71c3a</_id>
-			<m_type type="a">0</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s">GUID e053cab7-f28f-4598-a985-d42053de3f78</m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_dataSize type="a">3249</m_dataSize>
-			<m_data type="a">6be#Zd8ZWGH4a464946G010101G78G78GGZe1G22457869LGG4d4dG2ag0308G010112G03g0301G01g06ZdbG43G0201010201010202020202020202030503030303030604040305070607070706070708090b0908080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cZdbG4301020202030303060303060c0807080c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0cZUG1108G2aG2b030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfdf5d4L682df727dece393815817de2dfec782ea5bcbcb7861b50cf3cc70b0db27505d9O0b81dc9c567fed13f17347f80bY775cf197O2f3ec3a3f86edcdedc48a4091f1c2c71e783248c563453f7Pd57a915f927e36f8a1e30fdb2b5c9752f8817d7cbe1db86fb5e91eHb7b92ba4e936e7e4H485706X60Gf37cc2c8189c28c577W72fa98P596c72e23111a4aef73ed4fdR3fWabde08Y378cf45f869e13f1b784X3e2078bc32da6a776dT44Yfaa1f9X679d728ce1798eH72ef8190I5f417cGb787c35e02d2f47b3f125f78c974b89a1935ab8ba4bc7bf90932492492212a1b73M83X2b28e98afcb9f157ece3e1af19783bfb2ffb36c74c3858ed26b3b58613Lc3942802ed033f7811861c366b91f873178d3f65cb5d26fbc15e2487c37e26b2432dd5b582b47a16a330631af9b67bb631d8c72536b1382490Q0f771bc34e14ef4ddd9e6e1f36729fbeb43f6d2dae249e48fe6cafa81c30fe9572bc67f62bfda8ed3f6bcf833a4f8badad62d2efa5dd6face9a2W4c74ebd8c9478d587de8db1bd1ZG8d191b0335ecd5f2b28ca2f964b547b69a7ac4f89ffe0bcde25bdd1ff639YX9b6eZGe81e24f1c697a6ea9011c5ddS59X3cb27aafef6089b2b820Qc115Y8fN3c511aOda465964c9VN6dc9233bb68e031e871d7193ce4d7e8c7fc1L7e06ea7f1b3f624d4a7d162b8bcd63Uba95bf8aad6ca15dc6fc5b891258f1d4e20965Mabf3I46R3ad7e47f843c771cb1ac90dc7990V897293152825475ca15079fbbf7b3d0e475afb1e1b94274fd9f5b9f3Pb465edb9ba58fa8a1f1b235818c29fP71935c67c42f174734I08d8c6a4Mbdb6e30547a66bN87e25c8dGK6ddb7d1ab9ef1378f77fP34d246YUa662Rdb890bc9e9f4e95f5129a82679b5R73a5081f71ZGc1067c6538f897f193c3Hba2e92a74bf118O8fde0bcb849ade57cfJa62b58G41855cM066bf4b2bf3cbfW833f05750d03U1e26f8P7716eb7fO7711d969d70cdb7ed16161be38a70846eccd23cecbdbcb446fe3afd0dafcc7309a9579347dL0e128d24a450f11e9bfdada634219a32Va43afde4c1cee1fed0ea0f63ebd2bf32ZG6c2ff8222ea9ZG0936Te2af83bad5ac83569e7d4ee7c2baa1290addcb2192536b38cf96ae7eec2c0229c9dc01afd3fb81984dLbc4b711859156459231b830c86e7bd460f17530f579e9b1e230f0a8bde3f09efZG610f8ffa76affd93ZG0a8bc40da8caN288af2da78518fYbccae635cf624e3d715fJ7eV3fY43af1bfc46bfb3bcf8b5a943W9d021911dfc3fa648b71a9dfH72d1cbMa4c51a9c7de8Pcf62057eae1b68d82cL3428Q614aY3f0a8e18d63bcb54KK4cb1da0606M7b57a9Ocf311523cbb1cb87cb68af7ac43e1dYb5bf87e1b382cd23b7b3b2852dedede18563860445daR8a06Gc6071cGGadca8216cffdf6454f5e0ddb7767a7d2c7Zd9</m_data>
-			<m_srcFile type="a">C:\Users\jarag\Desktop\Cibertec_laboratorio\Ciclo4\Analisi y Dise%F1os de Sistemas II\profiles\AnalysisProfile\images_analysis\control.jpg</m_srcFile>
-			<m_fileModifiedTime type="a">8.11.2021::3:46:52</m_fileModifiedTime>
-		</CGIImageData>
-		<CGIImageData type="e">
 			<_id type="a">GUID 535a7c88-ed34-4c4c-936f-7ad69a30d5ce</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
@@ -5558,6 +5533,37 @@
 			<m_data type="a">6d6#Zd8ZWGH4a464946G010101G78G78GGZe1G22457869LGG4d4dG2ag0308G010112G03g0301G01g06ZdbG43G0201010201010202020202020202030503030303030604040305070607070706070708090b0908080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cZdbG4301020202030303060303060c0807080c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0cZUG1108G32G3c030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfdfca28aa1e27f1159f847c3f79aa6a375159e9fa7c2f717Ic8M91468a5998fdG268f20f52eTec1dZG0158775f14fcI637324If88b41866889578e4d42256423a820b641afV2f8f3fY506fO1fb60eb9a858f87f56bcY47c339e431d9a69ce60d5b5785482bIdc0f9a147c060b190db7193c915e716ffb32f82f54579ef3c33a2ea17521df2dcdddRcf3cec7ab3T02Vc7b92735f4b85e1c9ca3cd5a5cbe4b57f3d8f2eaL91bda9abfe07ecae8de23d3fc4769f68d3af6d750b7dc57cdb699664c8ea3729233ed5715bMafc64d02c35dfd9e3515bef869e24d53U73c79ff47d3c86d3e5ce376fb46cc24b6305b6Xf423ad7e857fc13d3f6ee87f6b7f0d6a9a5eb90dae93f103c2fb46ada7Uc4c3344dc477Me79f2dY460925595876c9e2V326a9868fb44f9a3dfR36c3e3e351f235L7d2545Ge4515e39dc15f22ffc16dfe22dd781bf617bed3ad957cbf1a6b363e1cbP37157821p03d083f7bf7407d09afaeabe36ZG82eaf83aZGc49fS9cba959a46d6de11f10e9faf6a059b063b58Pd5d87a90645e2bb32fb7d669f36d7473e2afec656ec7Udf0e3578ede18557622aWG3a015ea5a5f89238edbef2f4afPbc2fe2efb204f981e739aedecbe23aa41f781fc6bf4c9c6cf43e5632d0f40f196bd190df32d55fd867e2c4df0b3fWQdf0f6ead14c91f8bae64Ycddc5bb68649919d243eT0c6703fda35e65e23f1face1b915d1ZGc13f7c1fa87c61ZG82837c31b7d3f6ZGc539a8b7Oaf18fdd48208d948cf62c6418cf5c1ae4c7462Sb539fbI6a327ed63cbdd1fbOPcd3a9a8727f5a757e647d6Hcfa8436a3f7b2c7173N5d82e4fe3593e2eb2d0fc73e19bed1f546Sbed375281edae60964465963M43020fb1ac7f8c5fb3d782ZG682d32d2cbc69e1bd2fc4969a7V6e2da2bd8f7ac3211b4b0e4724715e7fZG0ed2f80fZG44b3c23ff80a7fc6ae3cab56ddfc9112e6e96b1f92bfb61fec27e36fd87bc57a94b25acbaffc37f3e49b4df105P5963d3adcb6520ba504b21J42f9846d200e739af1ed3fc6d6fa8d9a4d6f7904d0c9ca4892a9571ec6bf72LZG82L7c03b9b778Lf853Wd9a19061e37b3dcae3dc1383K57fe0957fb39a2ed5f82ZG0fK47J34a4G57d5e1f89a31872d48b6fbe88f16a6533726Wd247e1fePacdef8e3c40da3f8774ed43c51ae050dfd9ba5446eaeJe9b99573b57a658f02bf5fbfW955fSac3fb1dfc35bcd6fc5571a74df11bc5ea8faa18ee5648f4d8549315a21cf3b324b11c1627a8c57a358ZGc12e3f679d2ee4cd6bY7bU96b311832c3a6ac6e47a6e1cd59ff876a7U86ebYb3c23ff80c7fc6b8f32ced62a1ece378c7aedafe26f84cba54a7cf2b37d3c8f698757b495f6c7716Xc7Q591493f8Lac6faf25Y0fec27Y8be15f8becfc41e1cf87fe1bd1f5ad398b5b5e5bJ5658490549073dc123f1af5830e6be7fddbe8dfccf5237fb449451454941451450014514500145145007Zd9</m_data>
 			<m_srcFile type="a">C:\Users\jarag\Desktop\Cibertec_laboratorio\Ciclo4\Analisi y Dise%F1os de Sistemas II\profiles\AnalysisProfile\images_analysis\entity.jpg</m_srcFile>
 			<m_fileModifiedTime type="a">8.11.2021::3:47:13</m_fileModifiedTime>
+		</CGIImageData>
+		<CGIImageData type="e">
+			<_id type="a">GUID 987a35f5-d321-406d-9815-1c96790e8937</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID e053cab7-f28f-4598-a985-d42053de3f78</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_dataSize type="a">3249</m_dataSize>
+			<m_data type="a">6be#Zd8ZWGH4a464946G010101G78G78GGZe1G22457869LGG4d4dG2ag0308G010112G03g0301G01g06ZdbG43G0201010201010202020202020202030503030303030604040305070607070706070708090b0908080a0807070a0d0a0a0b0c0c0c0c07090e0f0d0c0e0b0c0c0cZdbG4301020202030303060303060c0807080c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0c0cZUG1108G2aG2b030122G021101031101Zc4G1fGG0105010101010101g080102030405060708090a0bZc4Gb5HG0201030302040305050404GG017d010203G041105122131410613516107227114328191a1082342b1c11552d1Y24I627282090a161718191a25262728292a3435363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a8384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7f8f9faZc4G1f01G03010101010101010101g060102030405060708090a0bZc4Gb511G0201020404030407050404G010277G0102031104052131061241510761711322328108144291a1b1c10923I52Y156272d10a162434e125f11718191a262728292a35363738393a434445464748494a5354K565758595a636465L6768696a737475767778797a828384858687O898a92939495969798P9aa2a3a4a5a6a7a8a9Rb2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faZdaG0c0301G02110311G3fGfdf5d4L682df727dece393815817de2dfec782ea5bcbcb7861b50cf3cc70b0db27505d9O0b81dc9c567fed13f17347f80bY775cf197O2f3ec3a3f86edcdedc48a4091f1c2c71e783248c563453f7Pd57a915f927e36f8a1e30fdb2b5c9752f8817d7cbe1db86fb5e91eHb7b92ba4e936e7e4H485706X60Gf37cc2c8189c28c577W72fa98P596c72e23111a4aef73ed4fdR3fWabde08Y378cf45f869e13f1b784X3e2078bc32da6a776dT44Yfaa1f9X679d728ce1798eH72ef8190I5f417cGb787c35e02d2f47b3f125f78c974b89a1935ab8ba4bc7bf90932492492212a1b73M83X2b28e98afcb9f157ece3e1af19783bfb2ffb36c74c3858ed26b3b58613Lc3942802ed033f7811861c366b91f873178d3f65cb5d26fbc15e2487c37e26b2432dd5b582b47a16a330631af9b67bb631d8c72536b1382490Q0f771bc34e14ef4ddd9e6e1f36729fbeb43f6d2dae249e48fe6cafa81c30fe9572bc67f62bfda8ed3f6bcf833a4f8badad62d2efa5dd6face9a2W4c74ebd8c9478d587de8db1bd1ZG8d191b0335ecd5f2b28ca2f964b547b69a7ac4f89ffe0bcde25bdd1ff639YX9b6eZGe81e24f1c697a6ea9011c5ddS59X3cb27aafef6089b2b820Qc115Y8fN3c511aOda465964c9VN6dc9233bb68e031e871d7193ce4d7e8c7fc1L7e06ea7f1b3f624d4a7d162b8bcd63Uba95bf8aad6ca15dc6fc5b891258f1d4e20965Mabf3I46R3ad7e47f843c771cb1ac90dc7990V897293152825475ca15079fbbf7b3d0e475afb1e1b94274fd9f5b9f3Pb465edb9ba58fa8a1f1b235818c29fP71935c67c42f174734I08d8c6a4Mbdb6e30547a66bN87e25c8dGK6ddb7d1ab9ef1378f77fP34d246YUa662Rdb890bc9e9f4e95f5129a82679b5R73a5081f71ZGc1067c6538f897f193c3Hba2e92a74bf118O8fde0bcb849ade57cfJa62b58G41855cM066bf4b2bf3cbfW833f05750d03U1e26f8P7716eb7fO7711d969d70cdb7ed16161be38a70846eccd23cecbdbcb446fe3afd0dafcc7309a9579347dL0e128d24a450f11e9bfdada634219a32Va43afde4c1cee1fed0ea0f63ebd2bf32ZG6c2ff8222ea9ZG0936Te2af83bad5ac83569e7d4ee7c2baa1290addcb2192536b38cf96ae7eec2c0229c9dc01afd3fb81984dLbc4b711859156459231b830c86e7bd460f17530f579e9b1e230f0a8bde3f09efZG610f8ffa76affd93ZG0a8bc40da8caN288af2da78518fYbccae635cf624e3d715fJ7eV3fY43af1bfc46bfb3bcf8b5a943W9d021911dfc3fa648b71a9dfH72d1cbMa4c51a9c7de8Pcf62057eae1b68d82cL3428Q614aY3f0a8e18d63bcb54KK4cb1da0606M7b57a9Ocf311523cbb1cb87cb68af7ac43e1dYb5bf87e1b382cd23b7b3b2852dedede18563860445daR8a06Gc6071cGGadca8216cffdf6454f5e0ddb7767a7d2c7Zd9</m_data>
+			<m_srcFile type="a">C:\Users\jarag\Desktop\Cibertec_laboratorio\Ciclo4\Analisi y Dise%F1os de Sistemas II\profiles\AnalysisProfile\images_analysis\control.jpg</m_srcFile>
+			<m_fileModifiedTime type="a">8.11.2021::3:46:52</m_fileModifiedTime>
 		</CGIImageData>
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 40dcaeef-840f-4a42-8134-25f6c40c09ee</_id>

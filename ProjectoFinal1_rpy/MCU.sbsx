@@ -12,7 +12,7 @@
 			<_id type="a">GUID 268a041b-0527-4bfe-a1f0-9ab1f483bfd0</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::7:5:4</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::5:11:4</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,7 +22,7 @@
 			</_theMainDiagram>
 			<_modifiedTime type="a">9.15.2024::7:25:8</_modifiedTime>
 			<_lastID type="a">30</_lastID>
-			<weakCGTime type="a">9.15.2024::7:5:4</weakCGTime>
+			<weakCGTime type="a">9.15.2024::5:11:4</weakCGTime>
 			<strongCGTime type="a">9.15.2024::7:35:31</strongCGTime>
 			<_defaultComposite type="s">GUID b191fdb8-9fd1-4599-83e7-ca9ac1f06f3c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -4787,7 +4787,7 @@
 			<_id type="a">GUID b3cf8726-9c22-4b2b-9d9a-62c489dd5a57</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Supervisor</_name>
-			<_modifiedTimeWeak type="a">8.19.2024::6:35:55</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::5:11:4</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -4798,8 +4798,8 @@
 					<_hid type="a">GUID 4849eecc-0aee-4d45-a5fb-d8f0bb926d89</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">8.19.2024::6:35:55</_modifiedTime>
-			<weakCGTime type="a">8.19.2024::6:35:55</weakCGTime>
+			<_modifiedTime type="a">9.15.2024::5:11:4</_modifiedTime>
+			<weakCGTime type="a">9.15.2024::5:11:4</weakCGTime>
 			<strongCGTime type="a">8.19.2024::5:22:48</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4810,6 +4810,7 @@
 				<value>GUID d9e7c892-fb66-4d17-93d7-ee2f7fecd38d</value>
 				<value>GUID f2c8b898-5dc8-4408-a998-98076616c0ba</value>
 				<value>GUID 101d39ba-59a0-4637-b5c9-f7d054edb078</value>
+				<value>GUID 7dce1aa3-0394-4d2f-b272-8fbe544178e6</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -4860,6 +4861,10 @@
 					<_hid type="a">GUID 85510b6e-7424-4cac-bd36-53066fb0e575</_hid>
 				</IHandle>
 			</_inverse>
+			<Qualifiers type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Qualifiers>
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
@@ -4889,6 +4894,39 @@
 					<_hid type="a">GUID 06611fd4-1438-42ef-b237-e362e69d92c3</_hid>
 				</IHandle>
 			</_inverse>
+			<Qualifiers type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Qualifiers>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 7dce1aa3-0394-4d2f-b272-8fbe544178e6</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_Registrar_Asistencia</_name>
+			<_modifiedTimeWeak type="a">9.15.2024::5:11:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::5:11:4</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_Registrar_Asistencia</_hname>
+					<_hid type="a">GUID 6b898bb7-24ef-4dfa-b761-344bc7eaa323</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_Registrar_Asistencia</_hclass>
+					<_hname type="a">itsSupervisor</_hname>
+					<_hid type="a">GUID b39a2860-d8e5-4861-806f-991b4238efd4</_hid>
+				</IHandle>
+			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
@@ -4896,7 +4934,7 @@
 			<_id type="a">GUID 7cb90d61-1d5e-47ed-a57b-153075843613</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Gestor RRHH</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::7:5:4</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::5:12:14</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -4907,8 +4945,8 @@
 					<_hid type="a">GUID f8fd4b5e-462a-499b-ac32-136012e792f3</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">9.15.2024::7:5:4</_modifiedTime>
-			<weakCGTime type="a">9.15.2024::7:5:4</weakCGTime>
+			<_modifiedTime type="a">9.15.2024::5:12:14</_modifiedTime>
+			<weakCGTime type="a">9.15.2024::5:12:14</weakCGTime>
 			<strongCGTime type="a">8.19.2024::5:22:48</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4929,7 +4967,6 @@
 				<value>GUID 3c40c926-e3e4-4c60-a4a9-4e31760009f1</value>
 				<value>GUID 2ab6d9dc-f9c1-44d5-bcf9-174ad39561e9</value>
 				<value>GUID 4ad00142-de62-46bd-89e1-df987ba00ea2</value>
-				<value>GUID c359fa53-4728-4a25-8214-d32d3c8fe489</value>
 				<value>GUID 4ffbf240-3311-4120-ab94-bc3d4534c74a</value>
 				<value>GUID 2521a3c4-976f-479a-811c-367bf5c565af</value>
 				<value>GUID 393645da-9df8-488f-8e27-175b7bbab7f4</value>
@@ -5075,6 +5112,10 @@
 					<_hid type="a">GUID fd725eed-b5de-4ae7-8a11-a5816b6a2cdb</_hid>
 				</IHandle>
 			</_inverse>
+			<Qualifiers type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Qualifiers>
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
@@ -5133,6 +5174,10 @@
 					<_hid type="a">GUID cdb5c7c1-a386-4910-af9e-3e1124c1207f</_hid>
 				</IHandle>
 			</_inverse>
+			<Qualifiers type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Qualifiers>
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
@@ -5191,6 +5236,10 @@
 					<_hid type="a">GUID a44cc83b-0000-43a8-80a3-7055abf3ebaf</_hid>
 				</IHandle>
 			</_inverse>
+			<Qualifiers type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Qualifiers>
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
@@ -5220,6 +5269,10 @@
 					<_hid type="a">GUID 77e1161b-d6d3-4c8c-a168-063e622d1b09</_hid>
 				</IHandle>
 			</_inverse>
+			<Qualifiers type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Qualifiers>
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
@@ -5249,6 +5302,10 @@
 					<_hid type="a">GUID 80683e1d-9caf-4da1-a346-b5aa7851185b</_hid>
 				</IHandle>
 			</_inverse>
+			<Qualifiers type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Qualifiers>
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
@@ -5282,35 +5339,6 @@
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
 		<IAssociationEnd type="e">
-			<_id type="a">GUID c359fa53-4728-4a25-8214-d32d3c8fe489</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsCI_EMITIR_REPORTE_DE_ASISTENCIA</_name>
-			<_modifiedTimeWeak type="a">8.19.2024::6:40:2</_modifiedTimeWeak>
-			<_modifiedTime type="a">8.19.2024::6:40:2</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IClass</_hm2Class>
-					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
-					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
-					<_hname type="a">CI_EMITIR_REPORTE_DE_ASISTENCIA</_hname>
-					<_hid type="a">GUID 4ef3cfb7-543d-4556-9e40-047aa0be0cd3</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
-					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
-					<_hclass type="a">CI_EMITIR_REPORTE_DE_ASISTENCIA</_hclass>
-					<_hname type="a">itsGestor RRHH</_hname>
-					<_hid type="a">GUID ea259c56-7c8c-4c92-be56-65c6225abade</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
 			<_id type="a">GUID 4ffbf240-3311-4120-ab94-bc3d4534c74a</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsCI_MENU_PRINCIPAL_5</_name>
@@ -5336,6 +5364,10 @@
 					<_hid type="a">GUID c3cf0855-d79e-4aab-bc10-94a75c7070bf</_hid>
 				</IHandle>
 			</_inverse>
+			<Qualifiers type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Qualifiers>
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
