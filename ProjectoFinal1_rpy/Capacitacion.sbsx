@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0</version>
+	<lang>C++</lang>
+	<BuildNo>202402122040</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 638e6161-b394-4ac4-89cb-1e682923e22c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Capacitacion</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::5:27:37</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Diagrama de Arquitectura de Analisis</_hname>
+					<_hid type="a">GUID 4650b7e7-2ffa-40f6-a5d5-249428190629</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">8.19.2024::5:27:37</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">8.19.2024::5:27:37</weakCGTime>
+			<strongCGTime type="a">8.19.2024::5:15:13</strongCGTime>
+			<_defaultComposite type="s">GUID 9efd2784-9ec7-4c8e-b7f1-fa2b3c729351</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID b8062215-a3de-454e-ba6c-b0643e9b28e5</value>
+				<value>GUID 9efd2784-9ec7-4c8e-b7f1-fa2b3c729351</value>
+				<value>GUID 4edd4ba9-1d84-45a4-a499-8361f51c8a43</value>
+				<value>GUID c261522f-43de-49bc-91e8-bce38d2af7ad</value>
+				<value>GUID 410411d2-cc0d-4f8a-890f-7b27ad792036</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID b8062215-a3de-454e-ba6c-b0643e9b28e5</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Notificacion</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::5:15:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:15:13</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Notificacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Notificacion</_hname>
+					<_hid type="a">GUID cb84bc66-fbc4-47e7-a203-8ca0ee933fef</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 638e6161-b394-4ac4-89cb-1e682923e22c</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 9efd2784-9ec7-4c8e-b7f1-fa2b3c729351</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IUseCase type="e">
+			<_id type="a">GUID 4edd4ba9-1d84-45a4-a499-8361f51c8a43</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Enviar alerta de capacitaci%F3n</_name>
+			<_modifiedTimeWeak type="a">9.15.2024::8:7:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:24:12</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">9.15.2024::8:7:43</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 695d7fc0-a920-4b0d-8a84-b476dbe0bff7</value>
+				<value>GUID 2d13e8aa-8e73-4c24-b146-8a0a815b28ed</value>
+			</AggregatesList>
+		</IUseCase>
+		<IDependency type="e">
+			<_id type="a">GUID 695d7fc0-a920-4b0d-8a84-b476dbe0bff7</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Enviar Notificaci%F3n</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">9.15.2024::8:7:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:24:12</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Enviar Notificaci%F3n</_hname>
+					<_hid type="a">GUID 969914d4-0f80-4e53-9011-d30b12be221d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 4edd4ba9-1d84-45a4-a499-8361f51c8a43</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 2d13e8aa-8e73-4c24-b146-8a0a815b28ed</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsAdministrador de Sistema</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::8:1:24</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Administrador de Sistema</_hname>
+					<_hid type="a">GUID d0465dfc-27a9-4b42-81d4-567a7b712230</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IUseCase type="e">
+			<_id type="a">GUID c261522f-43de-49bc-91e8-bce38d2af7ad</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Gestionar capacitaci%F3n</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:26:35</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 5d2a88a1-5551-4856-80d2-738564ad5fab</value>
+			</AggregatesList>
+		</IUseCase>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 5d2a88a1-5551-4856-80d2-738564ad5fab</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsAdministrador de Sistema</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::8:1:18</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Administrador de Sistema</_hname>
+					<_hid type="a">GUID d0465dfc-27a9-4b42-81d4-567a7b712230</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IUseCase type="e">
+			<_id type="a">GUID 410411d2-cc0d-4f8a-890f-7b27ad792036</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Recibir constancia de capacitaci%F3n</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:27:37</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 72409860-7b6f-4893-b7e8-62f9f1f7591a</value>
+			</AggregatesList>
+		</IUseCase>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 72409860-7b6f-4893-b7e8-62f9f1f7591a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEmpleado</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::8:2:14</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Empleado</_hname>
+					<_hid type="a">GUID d449d248-57cc-4fe5-b76c-69033cf5ae95</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

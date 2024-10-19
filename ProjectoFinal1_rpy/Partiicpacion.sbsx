@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>110.0</version>
+	<lang>C++</lang>
+	<BuildNo>202402122040</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID ecbf0c21-10b8-4330-b4f7-3d70e8b06ca5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Partiicpacion</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::5:28:39</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Diagrama de Arquitectura de Analisis</_hname>
+					<_hid type="a">GUID 4650b7e7-2ffa-40f6-a5d5-249428190629</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">8.19.2024::5:28:39</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">8.19.2024::5:28:39</weakCGTime>
+			<strongCGTime type="a">8.19.2024::5:15:20</strongCGTime>
+			<_defaultComposite type="s">GUID b7dcb7df-3830-4f7a-99be-2482c8742f51</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID ccd0465f-7fe4-457a-a761-e36e292b073e</value>
+				<value>GUID b7dcb7df-3830-4f7a-99be-2482c8742f51</value>
+				<value>GUID 7c5a9754-1029-48bc-bd14-132002263657</value>
+				<value>GUID 5bd19f78-0e0f-461b-a32c-82fbedbab27e</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID ccd0465f-7fe4-457a-a761-e36e292b073e</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Notificacion</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::5:15:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:15:20</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Notificacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Notificacion</_hname>
+					<_hid type="a">GUID cb84bc66-fbc4-47e7-a203-8ca0ee933fef</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID ecbf0c21-10b8-4330-b4f7-3d70e8b06ca5</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID b7dcb7df-3830-4f7a-99be-2482c8742f51</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IUseCase type="e">
+			<_id type="a">GUID 7c5a9754-1029-48bc-bd14-132002263657</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Emitir constancia de participaci%F3n</_name>
+			<_modifiedTimeWeak type="a">9.15.2024::8:7:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:23:56</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">9.15.2024::8:7:47</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 40c17207-c8d9-442e-9e0c-317af9707dae</value>
+				<value>GUID f9eaf1e2-0fad-4e4b-b2ec-723a5b022f35</value>
+			</AggregatesList>
+		</IUseCase>
+		<IDependency type="e">
+			<_id type="a">GUID 40c17207-c8d9-442e-9e0c-317af9707dae</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Enviar Notificaci%F3n</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">9.15.2024::8:7:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:23:56</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Enviar Notificaci%F3n</_hname>
+					<_hid type="a">GUID 969914d4-0f80-4e53-9011-d30b12be221d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 7c5a9754-1029-48bc-bd14-132002263657</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID f9eaf1e2-0fad-4e4b-b2ec-723a5b022f35</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsAdministrador de Sistema</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::8:1:30</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Administrador de Sistema</_hname>
+					<_hid type="a">GUID d0465dfc-27a9-4b42-81d4-567a7b712230</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IUseCase type="e">
+			<_id type="a">GUID 5bd19f78-0e0f-461b-a32c-82fbedbab27e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Verificar participaci%F3n</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:28:39</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 5a372907-4d5a-4b34-83b0-25a32cdf12d2</value>
+			</AggregatesList>
+		</IUseCase>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 5a372907-4d5a-4b34-83b0-25a32cdf12d2</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsEmpleado</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::8:2:9</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Empleado</_hname>
+					<_hid type="a">GUID d449d248-57cc-4fe5-b76c-69033cf5ae95</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

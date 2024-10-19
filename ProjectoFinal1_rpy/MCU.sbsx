@@ -12,7 +12,7 @@
 			<_id type="a">GUID 268a041b-0527-4bfe-a1f0-9ab1f483bfd0</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::8:12:56</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">8.18.2024::5:41:0</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -20,9 +20,9 @@
 					<_hid type="a">GUID 6bc4a0d8-2cd7-49db-af87-2a7ff3cf3ebf</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">9.15.2024::8:12:56</_modifiedTime>
+			<_modifiedTime type="a">8.18.2024::5:28:41</_modifiedTime>
 			<_lastID type="a">30</_lastID>
-			<weakCGTime type="a">9.15.2024::8:12:56</weakCGTime>
+			<weakCGTime type="a">8.19.2024::5:22:48</weakCGTime>
 			<strongCGTime type="a">9.15.2024::7:35:31</strongCGTime>
 			<_defaultComposite type="s">GUID b191fdb8-9fd1-4599-83e7-ca9ac1f06f3c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -32,9 +32,6 @@
 				<value>GUID b191fdb8-9fd1-4599-83e7-ca9ac1f06f3c</value>
 				<value>GUID add705bc-f986-4a22-bcfb-dd32e860229a</value>
 				<value>GUID 33291fc3-caef-4b3d-968e-5904bc667766</value>
-				<value>GUID c8d720f8-77ad-4d7a-8430-42fdb429a757</value>
-				<value>GUID 1ea49bef-f98b-4738-864b-056e5d1388a8</value>
-				<value>GUID d188c94c-55ad-49c9-b7bc-20bb9e5fbe26</value>
 				<value>GUID 3c3f357f-31aa-43ad-bc62-b68017753530</value>
 				<value>GUID 0997ce25-2d25-4be3-a61a-53c50de70818</value>
 				<value>GUID 1ecdbeb2-0e0a-4e69-b81b-6794a1830d68</value>
@@ -45,7 +42,6 @@
 				<value>GUID 08c1252d-e0ed-4132-952c-759c1f350659</value>
 				<value>GUID f24462b3-f521-424f-a709-2be3b1eb6d0f</value>
 				<value>GUID 64ab03ec-86e0-4813-a4e1-7026dbf9232f</value>
-				<value>GUID 1efa5da2-3fb4-445b-add8-4b99de0a154c</value>
 				<value>GUID d6245c59-43a2-45e8-9dae-c61cbda2028d</value>
 				<value>GUID 6fb90b21-8fe1-490a-9294-d58c04f60e85</value>
 				<value>GUID 969914d4-0f80-4e53-9011-d30b12be221d</value>
@@ -277,8 +273,8 @@
 			</_properties>
 			<_name type="a">Diagrama General de CU</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:12:56</_modifiedTime>
-			<_lastModifiedTime type="a">9.15.2024::8:12:56</_lastModifiedTime>
+			<_modifiedTime type="a">8.19.2024::6:28:15</_modifiedTime>
+			<_lastModifiedTime type="a">8.19.2024::6:28:15</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -321,7 +317,7 @@
 			</m_name>
 			<m_drawBehavior type="a">0</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
-			<elementList type="a">46</elementList>
+			<elementList type="a">38</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -341,9 +337,6 @@
 				<value>GUID cbdd1691-1038-4115-9127-5d42e4fd9012</value>
 				<value>GUID 0719b120-f92b-47fd-b353-53619d9881ea</value>
 				<value>GUID c8fedfab-1ed6-4426-a9cf-396f9cc8a53b</value>
-				<value>GUID 2041cecb-0dd0-4f1c-8dc6-bd9cfa7ef2c6</value>
-				<value>GUID 16c0877a-49cc-45c1-a152-a145fa72ff47</value>
-				<value>GUID 1b54816c-5a30-40b7-ab26-00676fe2273b</value>
 				<value>GUID e4f4baf8-c688-4510-bcc2-6ec0e82e4244</value>
 				<value>GUID 4fb9da87-eb1f-40c9-8b9e-5d38a5d309f4</value>
 				<value>GUID f305cb32-c38e-4fb8-b2d1-fa4769ef5a1f</value>
@@ -354,23 +347,18 @@
 				<value>GUID 45ac4c20-d086-4102-b000-8e54246c9ba2</value>
 				<value>GUID 57cbedb7-90ef-4cbf-a1dc-a7cc5eaaf4f6</value>
 				<value>GUID 0f6b583c-95d1-40fb-8453-d6d2de1155df</value>
-				<value>GUID 4d10edbd-0620-433f-a3e7-c00d7573fd63</value>
 				<value>GUID 0289956e-9684-4fa6-a468-938d9536b143</value>
 				<value>GUID da2cad3c-0cd1-49e8-b8e0-f52542b7e50e</value>
 				<value>GUID 8d3f6113-52d3-405d-aef6-54ed85cfef4b</value>
-				<value>GUID 4576d732-c0d3-4313-bbed-c85c6b5c3a09</value>
 				<value>GUID e7cccc72-1d2e-4371-91ff-65a019322cea</value>
 				<value>GUID 2d978b5b-cf9e-4ffe-84f3-bc994d452b8f</value>
 				<value>GUID 4bdac1d5-2822-4077-b62d-f5f6dd8ebc5f</value>
-				<value>GUID 10198a05-c643-4dd3-a67b-d1ab92c22777</value>
 				<value>GUID f971d3c2-00ec-4c73-bccd-2588bf58f081</value>
-				<value>GUID 59f9f592-388e-4ce1-b590-0686a18d1664</value>
 				<value>GUID 29574c29-e02d-4d07-b27c-6d6330ee6d39</value>
 				<value>GUID 4ac0a336-e704-4c74-b3f6-c13928f2d658</value>
 				<value>GUID 33dc4aa2-1568-4f33-94bb-105f15964f7f</value>
 				<value>GUID ee4da2bf-063d-4b77-87d5-65c77873cfb9</value>
 				<value>GUID 5d3823d1-58d5-4e57-8cb6-ef66e0e99623</value>
-				<value>GUID 1bf04519-9d92-4ba5-8580-71a8aa56f852</value>
 				<value>GUID c70d41a6-aed1-4b5b-86a9-ace82feaf3ce</value>
 				<value>GUID a939e52a-6f1f-424e-844e-d836aef33b66</value>
 				<value>GUID 2413f390-ed9b-4f2c-9b3a-34c359e65a7d</value>
@@ -717,157 +705,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 120.248 341.061 </m_transform>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_AdditionalLabel type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_AdditionalLabel>
-			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
-			<m_nNameFormat type="a">0</m_nNameFormat>
-			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-		</CGIBasicClass>
-		<CGIBasicClass type="e">
-			<_id type="a">GUID 2041cecb-0dd0-4f1c-8dc6-bd9cfa7ef2c6</_id>
-			<m_type type="a">125</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID c8d720f8-77ad-4d7a-8430-42fdb429a757</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s">GUID f5913ae3-909e-4bc4-9891-00c07bfef22f</m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_str type="a">Generar reporte de asistencia</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 282.248 358.061 </m_transform>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_AdditionalLabel type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_AdditionalLabel>
-			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
-			<m_nNameFormat type="a">0</m_nNameFormat>
-			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-		</CGIBasicClass>
-		<CGIBasicClass type="e">
-			<_id type="a">GUID 16c0877a-49cc-45c1-a152-a145fa72ff47</_id>
-			<m_type type="a">125</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID 1ea49bef-f98b-4738-864b-056e5d1388a8</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s">GUID f5913ae3-909e-4bc4-9891-00c07bfef22f</m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_str type="a">Validar registros de asistencia</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 803.248 555.061 </m_transform>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_AdditionalLabel type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_AdditionalLabel>
-			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
-			<m_nNameFormat type="a">0</m_nNameFormat>
-			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-		</CGIBasicClass>
-		<CGIBasicClass type="e">
-			<_id type="a">GUID 1b54816c-5a30-40b7-ab26-00676fe2273b</_id>
-			<m_type type="a">125</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID d188c94c-55ad-49c9-b7bc-20bb9e5fbe26</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s">GUID f5913ae3-909e-4bc4-9891-00c07bfef22f</m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_str type="a">Gestionar incidencias</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 876.248 23.0607 </m_transform>
+			<m_transform type="a">0.124004 0 0 0.0606909 184.248 353.061 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1419,56 +1257,6 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 		</CGIBasicClass>
 		<CGIBasicClass type="e">
-			<_id type="a">GUID 4d10edbd-0620-433f-a3e7-c00d7573fd63</_id>
-			<m_type type="a">125</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID 1efa5da2-3fb4-445b-add8-4b99de0a154c</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s">GUID f5913ae3-909e-4bc4-9891-00c07bfef22f</m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_str type="a">Evaluar informaci%F3n obtenida</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 260.248 671.061 </m_transform>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_AdditionalLabel type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_AdditionalLabel>
-			<m_polygon type="a">4 -2 -1  -2 1070  1127 1070  1127 -1  </m_polygon>
-			<m_nNameFormat type="a">0</m_nNameFormat>
-			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-		</CGIBasicClass>
-		<CGIBasicClass type="e">
 			<_id type="a">GUID 0289956e-9684-4fa6-a468-938d9536b143</_id>
 			<m_type type="a">125</m_type>
 			<m_pModelObject type="r">
@@ -1496,7 +1284,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0606909 120.248 690.061 </m_transform>
+			<m_transform type="a">0.124004 0 0 0.0606909 184.248 671.061 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1597,7 +1385,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSupervisor</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1614,7 +1401,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsVerificar registros de asistencia</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1772,7 +1558,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsGestor RRHH</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1789,182 +1574,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsRegistrar asistencia</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">3</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_targetRole>
-			<m_sourceMultiplicity type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">4</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_sourceMultiplicity>
-			<m_targetMultiplicity type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">5</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_targetMultiplicity>
-			<m_sourceQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">6</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_sourceQualifier>
-			<m_targetQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">7</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_targetQualifier>
-			<m_specificType type="a">symmetric_type</m_specificType>
-		</CGIAssociationEnd>
-		<CGIAssociationEnd type="e">
-			<_id type="a">GUID 4576d732-c0d3-4313-bbed-c85c6b5c3a09</_id>
-			<m_type type="a">94</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 0947a4b4-87e0-44e0-881d-7545aeed9bd9</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s"></m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID e17bb872-fbeb-4d9b-90ad-c42f82499735</m_pSource>
-			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 2041cecb-0dd0-4f1c-8dc6-bd9cfa7ef2c6</m_pTarget>
-			<m_targetType type="a">'T'</m_targetType>
-			<m_direction type="a">' '</m_direction>
-			<m_rpn type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_rpn>
-			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
-			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1239 525 </m_SourcePort>
-			<m_TargetPort type="a">103 839 </m_TargetPort>
-			<m_pInverseModelObject type="r">
-				<IAssociationEndHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 13865876-1f1f-43d9-85fd-d464cf255d15</_hid>
-				</IAssociationEndHandle>
-			</m_pInverseModelObject>
-			<m_pInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInstance>
-			<m_pInverseInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInverseInstance>
-			<m_bShowSourceMultiplicity type="a">0</m_bShowSourceMultiplicity>
-			<m_bShowSourceRole type="a">0</m_bShowSourceRole>
-			<m_bShowTargetMultiplicity type="a">0</m_bShowTargetMultiplicity>
-			<m_bShowTargetRole type="a">0</m_bShowTargetRole>
-			<m_bShowLinkName type="a">1</m_bShowLinkName>
-			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
-			<m_bInstance type="a">0</m_bInstance>
-			<m_bShowQualifier1 type="a">0</m_bShowQualifier1>
-			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
-			<m_sourceRole type="p">
-				<CGIText type="e">
-					<m_str type="a">itsGestor RRHH</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">2</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_sourceRole>
-			<m_targetRole type="p">
-				<CGIText type="e">
-					<m_str type="a">itsGenerar reporte de asistencia</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2122,7 +1731,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsGestor RRHH</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2139,7 +1747,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsAcceder al sistema de asistencia</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2297,7 +1904,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsGestor RRHH</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2314,7 +1920,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsRealizar evaluaci%F3n</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2472,7 +2077,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsGestor RRHH</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2489,7 +2093,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsRealizar retroalimentaci%F3n</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2502,181 +2105,6 @@
 					<m_nIdent type="a">3</m_nIdent>
 					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
 					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_targetRole>
-			<m_sourceMultiplicity type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">4</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_sourceMultiplicity>
-			<m_targetMultiplicity type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">5</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_targetMultiplicity>
-			<m_sourceQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">6</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_sourceQualifier>
-			<m_targetQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">7</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_targetQualifier>
-			<m_specificType type="a">symmetric_type</m_specificType>
-		</CGIAssociationEnd>
-		<CGIAssociationEnd type="e">
-			<_id type="a">GUID 10198a05-c643-4dd3-a67b-d1ab92c22777</_id>
-			<m_type type="a">94</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 151fc86a-e049-4662-a187-37d50a7f02de</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s"></m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID e17bb872-fbeb-4d9b-90ad-c42f82499735</m_pSource>
-			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 4d10edbd-0620-433f-a3e7-c00d7573fd63</m_pTarget>
-			<m_targetType type="a">'T'</m_targetType>
-			<m_direction type="a">' '</m_direction>
-			<m_rpn type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_rpn>
-			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
-			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1259 622 </m_SourcePort>
-			<m_TargetPort type="a">563 526 </m_TargetPort>
-			<m_pInverseModelObject type="r">
-				<IAssociationEndHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID edda82a1-5a62-4f33-a068-e0e3819278ff</_hid>
-				</IAssociationEndHandle>
-			</m_pInverseModelObject>
-			<m_pInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInstance>
-			<m_pInverseInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInverseInstance>
-			<m_bShowSourceMultiplicity type="a">0</m_bShowSourceMultiplicity>
-			<m_bShowSourceRole type="a">0</m_bShowSourceRole>
-			<m_bShowTargetMultiplicity type="a">0</m_bShowTargetMultiplicity>
-			<m_bShowTargetRole type="a">0</m_bShowTargetRole>
-			<m_bShowLinkName type="a">1</m_bShowLinkName>
-			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
-			<m_bInstance type="a">0</m_bInstance>
-			<m_bShowQualifier1 type="a">0</m_bShowQualifier1>
-			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
-			<m_sourceRole type="p">
-				<CGIText type="e">
-					<m_str type="a">itsGestor RRHH</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">2</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_sourceRole>
-			<m_targetRole type="p">
-				<CGIText type="e">
-					<m_str type="a">itsEvaluar informaci%F3n obtenida</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">3</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">4</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_targetRole>
 			<m_sourceMultiplicity type="p">
@@ -2822,7 +2250,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsGestor RRHH</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2839,7 +2266,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsEmitir reporte de asistencia</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2852,181 +2278,6 @@
 					<m_nIdent type="a">3</m_nIdent>
 					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
 					<m_nOrientationCtrlPt type="a">4</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_targetRole>
-			<m_sourceMultiplicity type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">4</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_sourceMultiplicity>
-			<m_targetMultiplicity type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">5</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_targetMultiplicity>
-			<m_sourceQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">6</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_sourceQualifier>
-			<m_targetQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">7</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_targetQualifier>
-			<m_specificType type="a">symmetric_type</m_specificType>
-		</CGIAssociationEnd>
-		<CGIAssociationEnd type="e">
-			<_id type="a">GUID 59f9f592-388e-4ce1-b590-0686a18d1664</_id>
-			<m_type type="a">94</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID a13de8c6-453d-483b-865c-5d05036713cf</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s"></m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID 1b54816c-5a30-40b7-ab26-00676fe2273b</m_pSource>
-			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID cbdd1691-1038-4115-9127-5d42e4fd9012</m_pTarget>
-			<m_targetType type="a">'T'</m_targetType>
-			<m_direction type="a">' '</m_direction>
-			<m_rpn type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_rpn>
-			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
-			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1014 856 </m_SourcePort>
-			<m_TargetPort type="a">217 533 </m_TargetPort>
-			<m_pInverseModelObject type="r">
-				<IAssociationEndHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 662c6f9f-ce79-455e-a0ec-9473d275fdcc</_hid>
-				</IAssociationEndHandle>
-			</m_pInverseModelObject>
-			<m_pInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInstance>
-			<m_pInverseInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInverseInstance>
-			<m_bShowSourceMultiplicity type="a">0</m_bShowSourceMultiplicity>
-			<m_bShowSourceRole type="a">0</m_bShowSourceRole>
-			<m_bShowTargetMultiplicity type="a">0</m_bShowTargetMultiplicity>
-			<m_bShowTargetRole type="a">0</m_bShowTargetRole>
-			<m_bShowLinkName type="a">1</m_bShowLinkName>
-			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
-			<m_bInstance type="a">0</m_bInstance>
-			<m_bShowQualifier1 type="a">0</m_bShowQualifier1>
-			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
-			<m_sourceRole type="p">
-				<CGIText type="e">
-					<m_str type="a">itsGestionar incidencias</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">2</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_sourceRole>
-			<m_targetRole type="p">
-				<CGIText type="e">
-					<m_str type="a">itsAdministrador de Sistema</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">3</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_targetRole>
 			<m_sourceMultiplicity type="p">
@@ -3172,7 +2423,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsRegistrar datos de empleado</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3189,7 +2439,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsAdministrador de Sistema</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3347,7 +2596,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsValidar datos de empleado</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3364,7 +2612,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsAdministrador de Sistema</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3522,7 +2769,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsGestionar capacitaci%F3n</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3539,7 +2785,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsAdministrador de Sistema</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3697,7 +2942,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsEnviar alerta de capacitaci%F3n</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3714,7 +2958,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsAdministrador de Sistema</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3872,7 +3115,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsEmitir constancia de participaci%F3n</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3889,7 +3131,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsAdministrador de Sistema</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3902,181 +3143,6 @@
 					<m_nIdent type="a">3</m_nIdent>
 					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
 					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_targetRole>
-			<m_sourceMultiplicity type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">4</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_sourceMultiplicity>
-			<m_targetMultiplicity type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">5</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-				</CGIText>
-			</m_targetMultiplicity>
-			<m_sourceQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">6</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_sourceQualifier>
-			<m_targetQualifier type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">7</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_targetQualifier>
-			<m_specificType type="a">symmetric_type</m_specificType>
-		</CGIAssociationEnd>
-		<CGIAssociationEnd type="e">
-			<_id type="a">GUID 1bf04519-9d92-4ba5-8580-71a8aa56f852</_id>
-			<m_type type="a">94</m_type>
-			<m_pModelObject type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 3f307e02-4636-48c3-9716-dc0f5a96a59b</_hid>
-				</IHandle>
-			</m_pModelObject>
-			<m_pParent type="s"></m_pParent>
-			<m_name type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_name>
-			<m_drawBehavior type="a">4096</m_drawBehavior>
-			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<m_pSource type="s">GUID d5d3c5ce-01e7-4c97-9cd8-94ee10128407</m_pSource>
-			<m_sourceType type="a">'F'</m_sourceType>
-			<m_pTarget type="s">GUID 16c0877a-49cc-45c1-a152-a145fa72ff47</m_pTarget>
-			<m_targetType type="a">'T'</m_targetType>
-			<m_direction type="a">' '</m_direction>
-			<m_rpn type="p">
-				<CGIText type="e">
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">0</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">7</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_rpn>
-			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
-			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
-			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">196 558 </m_SourcePort>
-			<m_TargetPort type="a">1119 477 </m_TargetPort>
-			<m_pInverseModelObject type="r">
-				<IAssociationEndHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID cabf9fc0-5f13-4998-8862-57ac682f08e5</_hid>
-				</IAssociationEndHandle>
-			</m_pInverseModelObject>
-			<m_pInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInstance>
-			<m_pInverseInstance type="r">
-				<IObjectLinkHandle type="e">
-				</IObjectLinkHandle>
-			</m_pInverseInstance>
-			<m_bShowSourceMultiplicity type="a">0</m_bShowSourceMultiplicity>
-			<m_bShowSourceRole type="a">0</m_bShowSourceRole>
-			<m_bShowTargetMultiplicity type="a">0</m_bShowTargetMultiplicity>
-			<m_bShowTargetRole type="a">0</m_bShowTargetRole>
-			<m_bShowLinkName type="a">1</m_bShowLinkName>
-			<m_bShowSpecificType type="a">0</m_bShowSpecificType>
-			<m_bInstance type="a">0</m_bInstance>
-			<m_bShowQualifier1 type="a">0</m_bShowQualifier1>
-			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
-			<m_sourceRole type="p">
-				<CGIText type="e">
-					<m_str type="a">itsEmpleado</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">2</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">2</m_nOrientationCtrlPt>
-				</CGIText>
-			</m_sourceRole>
-			<m_targetRole type="p">
-				<CGIText type="e">
-					<m_str type="a">itsValidar registros de asistencia</m_str>
-					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
-					<m_color type="p">
-						<IColor type="e">
-							<m_fgColor type="a">0</m_fgColor>
-							<m_bgColor type="a">0</m_bgColor>
-							<m_bgFlag type="a">0</m_bgFlag>
-						</IColor>
-					</m_color>
-					<m_position type="a">1 0 0  </m_position>
-					<m_nIdent type="a">3</m_nIdent>
-					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
-					<m_nOrientationCtrlPt type="a">0</m_nOrientationCtrlPt>
 				</CGIText>
 			</m_targetRole>
 			<m_sourceMultiplicity type="p">
@@ -4222,7 +3288,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsEmpleado</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4239,7 +3304,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsVerificar participaci%F3n</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4397,7 +3461,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsEmpleado</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4414,7 +3477,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsRecibir constancia de capacitaci%F3n</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4951,10 +4013,10 @@
 			<_id type="a">GUID b191fdb8-9fd1-4599-83e7-ca9ac1f06f3c</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::7:35:31</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">8.19.2024::5:22:48</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<weakCGTime type="a">9.15.2024::7:35:31</weakCGTime>
-			<strongCGTime type="a">9.15.2024::7:35:31</strongCGTime>
+			<weakCGTime type="a">8.19.2024::5:22:48</weakCGTime>
+			<strongCGTime type="a">8.19.2024::5:22:48</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -4974,10 +4036,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5021,10 +4079,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5056,147 +4110,6 @@
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
 		<IUseCase type="e">
-			<_id type="a">GUID c8d720f8-77ad-4d7a-8430-42fdb429a757</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">Generar reporte de asistencia</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:0:18</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
-			<_itsStateChart type="r">
-				<IHandle type="e">
-				</IHandle>
-			</_itsStateChart>
-			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
-			<_EntryPoints type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</_EntryPoints>
-			<AggregatesList type="e">
-				<value>GUID 13865876-1f1f-43d9-85fd-d464cf255d15</value>
-			</AggregatesList>
-		</IUseCase>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID 13865876-1f1f-43d9-85fd-d464cf255d15</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsGestor RRHH</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:0:18</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IActor</_hm2Class>
-					<_hid type="a">GUID 7cb90d61-1d5e-47ed-a57b-153075843613</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 0947a4b4-87e0-44e0-881d-7545aeed9bd9</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IUseCase type="e">
-			<_id type="a">GUID 1ea49bef-f98b-4738-864b-056e5d1388a8</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">Validar registros de asistencia</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:2:4</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
-			<_itsStateChart type="r">
-				<IHandle type="e">
-				</IHandle>
-			</_itsStateChart>
-			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
-			<_EntryPoints type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</_EntryPoints>
-			<AggregatesList type="e">
-				<value>GUID cabf9fc0-5f13-4998-8862-57ac682f08e5</value>
-			</AggregatesList>
-		</IUseCase>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID cabf9fc0-5f13-4998-8862-57ac682f08e5</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsEmpleado</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:2:4</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IActor</_hm2Class>
-					<_hid type="a">GUID d449d248-57cc-4fe5-b76c-69033cf5ae95</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 3f307e02-4636-48c3-9716-dc0f5a96a59b</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IUseCase type="e">
-			<_id type="a">GUID d188c94c-55ad-49c9-b7bc-20bb9e5fbe26</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">Gestionar incidencias</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:1:2</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
-			<_itsStateChart type="r">
-				<IHandle type="e">
-				</IHandle>
-			</_itsStateChart>
-			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
-			<_EntryPoints type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</_EntryPoints>
-			<AggregatesList type="e">
-				<value>GUID a13de8c6-453d-483b-865c-5d05036713cf</value>
-			</AggregatesList>
-		</IUseCase>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID a13de8c6-453d-483b-865c-5d05036713cf</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsAdministrador de Sistema</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:1:2</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IActor</_hm2Class>
-					<_hid type="a">GUID d0465dfc-27a9-4b42-81d4-567a7b712230</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 662c6f9f-ce79-455e-a0ec-9473d275fdcc</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IUseCase type="e">
 			<_id type="a">GUID 3c3f357f-31aa-43ad-bc62-b68017753530</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Registrar datos de empleado</_name>
@@ -5209,10 +4122,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5256,10 +4165,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5303,10 +4208,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5341,7 +4242,7 @@
 			<_id type="a">GUID 87d73280-79bc-4bab-96f0-dae5a5243fe1</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Enviar alerta de capacitaci%F3n</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::8:7:43</_modifiedTimeWeak>
 			<_modifiedTime type="a">9.15.2024::8:7:43</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">9.15.2024::8:7:43</weakCGTime>
@@ -5351,10 +4252,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5421,7 +4318,7 @@
 			<_id type="a">GUID 25c751ea-b3c1-4b48-8597-9ac512046d2d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Emitir constancia de participaci%F3n</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::8:7:47</_modifiedTimeWeak>
 			<_modifiedTime type="a">9.15.2024::8:7:47</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">9.15.2024::8:7:47</weakCGTime>
@@ -5431,10 +4328,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5510,10 +4403,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5557,10 +4446,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5595,8 +4480,8 @@
 			<_id type="a">GUID 08c1252d-e0ed-4132-952c-759c1f350659</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Acceder al sistema de asistencia</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:4:13</_modifiedTime>
+			<_modifiedTimeWeak type="a">9.15.2024::8:4:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:22:35</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">9.15.2024::8:4:13</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -5605,10 +4490,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5675,7 +4556,7 @@
 			<_id type="a">GUID f24462b3-f521-424f-a709-2be3b1eb6d0f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Realizar evaluaci%F3n</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::8:4:28</_modifiedTimeWeak>
 			<_modifiedTime type="a">9.15.2024::8:4:28</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">9.15.2024::8:4:28</weakCGTime>
@@ -5685,10 +4566,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5755,7 +4632,7 @@
 			<_id type="a">GUID 64ab03ec-86e0-4813-a4e1-7026dbf9232f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Realizar retroalimentaci%F3n</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::8:4:50</_modifiedTimeWeak>
 			<_modifiedTime type="a">9.15.2024::8:4:50</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">9.15.2024::8:4:50</weakCGTime>
@@ -5765,10 +4642,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5832,53 +4705,6 @@
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
 		<IUseCase type="e">
-			<_id type="a">GUID 1efa5da2-3fb4-445b-add8-4b99de0a154c</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">Evaluar informaci%F3n obtenida</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:0:47</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
-			<_itsStateChart type="r">
-				<IHandle type="e">
-				</IHandle>
-			</_itsStateChart>
-			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
-			<_EntryPoints type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</_EntryPoints>
-			<AggregatesList type="e">
-				<value>GUID edda82a1-5a62-4f33-a068-e0e3819278ff</value>
-			</AggregatesList>
-		</IUseCase>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID edda82a1-5a62-4f33-a068-e0e3819278ff</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsGestor RRHH</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:0:47</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IActor</_hm2Class>
-					<_hid type="a">GUID 7cb90d61-1d5e-47ed-a57b-153075843613</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 151fc86a-e049-4662-a187-37d50a7f02de</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IUseCase type="e">
 			<_id type="a">GUID d6245c59-43a2-45e8-9dae-c61cbda2028d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Emitir reporte de asistencia</_name>
@@ -5891,10 +4717,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5938,10 +4760,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5960,10 +4778,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 				</IRPYRawContainer>
@@ -5973,10 +4787,20 @@
 			<_id type="a">GUID b3cf8726-9c22-4b2b-9d9a-62c489dd5a57</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Supervisor</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::7:59:52</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::7:59:52</_modifiedTime>
-			<weakCGTime type="a">9.15.2024::7:59:52</weakCGTime>
-			<strongCGTime type="a">9.15.2024::7:42:37</strongCGTime>
+			<_modifiedTimeWeak type="a">8.19.2024::6:35:55</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">Registrar asistencia</_hclass>
+					<_hname type="a">DC_REGISTRAR_ASISTENCIA</_hname>
+					<_hid type="a">GUID 4849eecc-0aee-4d45-a5fb-d8f0bb926d89</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">8.19.2024::6:35:55</_modifiedTime>
+			<weakCGTime type="a">8.19.2024::6:35:55</weakCGTime>
+			<strongCGTime type="a">8.19.2024::5:22:48</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -5984,6 +4808,8 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID d9e7c892-fb66-4d17-93d7-ee2f7fecd38d</value>
+				<value>GUID f2c8b898-5dc8-4408-a998-98076616c0ba</value>
+				<value>GUID 101d39ba-59a0-4637-b5c9-f7d054edb078</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -6008,14 +4834,82 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID f2c8b898-5dc8-4408-a998-98076616c0ba</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCIPAL</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::6:35:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::6:35:49</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCIPAL</_hname>
+					<_hid type="a">GUID 2114119f-ef70-479c-91c9-4de70f445175</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCIPAL</_hclass>
+					<_hname type="a">itsSupervisor</_hname>
+					<_hid type="a">GUID 85510b6e-7424-4cac-bd36-53066fb0e575</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 101d39ba-59a0-4637-b5c9-f7d054edb078</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCIPAL_1</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::6:35:55</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::6:35:55</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCIPAL</_hname>
+					<_hid type="a">GUID 2114119f-ef70-479c-91c9-4de70f445175</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCIPAL</_hclass>
+					<_hname type="a">itsSupervisor_1</_hname>
+					<_hid type="a">GUID 06611fd4-1438-42ef-b237-e362e69d92c3</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID 7cb90d61-1d5e-47ed-a57b-153075843613</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Gestor RRHH</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::8:0:53</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:0:53</_modifiedTime>
-			<weakCGTime type="a">9.15.2024::8:0:53</weakCGTime>
-			<strongCGTime type="a">9.15.2024::7:42:57</strongCGTime>
+			<_modifiedTimeWeak type="a">8.18.2024::5:43:22</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">Acceder al sistema de asistencia</_hclass>
+					<_hname type="a">DC ACCEDER AL SISTEMA DE ASISTENCIA</_hname>
+					<_hid type="a">GUID f8fd4b5e-462a-499b-ac32-136012e792f3</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">8.18.2024::5:43:22</_modifiedTime>
+			<weakCGTime type="a">8.19.2024::6:40:17</weakCGTime>
+			<strongCGTime type="a">8.19.2024::5:22:48</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -6023,12 +4917,27 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 513fff79-709e-4996-b8bc-f4fd78ea4274</value>
-				<value>GUID 0947a4b4-87e0-44e0-881d-7545aeed9bd9</value>
 				<value>GUID 1523aa8f-a605-4016-9c68-71a0626271f7</value>
 				<value>GUID 73cc1367-ac9a-4d7c-863e-8946899df854</value>
 				<value>GUID ef399e1c-f057-49a0-a121-1b7bcc605952</value>
-				<value>GUID 151fc86a-e049-4662-a187-37d50a7f02de</value>
 				<value>GUID 43ea70ef-12c2-4bb5-91b0-16c8dcf27b45</value>
+				<value>GUID 6584f9f4-b539-48d8-a9be-abbd03d2c6da</value>
+				<value>GUID d35afc08-5391-455e-a421-1e68407b4a37</value>
+				<value>GUID 58a8cc4c-0cb5-4ff3-af2c-ce93bca1ddc9</value>
+				<value>GUID f2710cb2-c262-4ef2-a320-c652fe4a1137</value>
+				<value>GUID e9d1767c-eea9-417d-bbc4-b0cb6628b8a8</value>
+				<value>GUID 3c40c926-e3e4-4c60-a4a9-4e31760009f1</value>
+				<value>GUID 2ab6d9dc-f9c1-44d5-bcf9-174ad39561e9</value>
+				<value>GUID 4ad00142-de62-46bd-89e1-df987ba00ea2</value>
+				<value>GUID 531bb239-3fa1-4a5a-beff-3221c4bccf25</value>
+				<value>GUID c359fa53-4728-4a25-8214-d32d3c8fe489</value>
+				<value>GUID 4ffbf240-3311-4120-ab94-bc3d4534c74a</value>
+				<value>GUID 2521a3c4-976f-479a-811c-367bf5c565af</value>
+				<value>GUID 393645da-9df8-488f-8e27-175b7bbab7f4</value>
+				<value>GUID 8ce117b4-16a5-4abb-97a5-e105fd3e2b35</value>
+				<value>GUID 94b31074-932a-465f-9420-9a988be68894</value>
+				<value>GUID 4d11e335-b476-4043-99ff-855c6de33c0f</value>
+				<value>GUID 1dcf118f-7ddb-4a82-9797-21bf4b87dc0a</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -6048,28 +4957,6 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hid type="a">GUID 57b8fe10-162b-4a8d-aa37-29be4aa782a9</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID 0947a4b4-87e0-44e0-881d-7545aeed9bd9</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsGenerar reporte de asistencia</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:0:18</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID c8d720f8-77ad-4d7a-8430-42fdb429a757</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID 13865876-1f1f-43d9-85fd-d464cf255d15</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
@@ -6142,28 +5029,6 @@
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
 		<IAssociationEnd type="e">
-			<_id type="a">GUID 151fc86a-e049-4662-a187-37d50a7f02de</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsEvaluar informaci%F3n obtenida</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:0:47</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID 1efa5da2-3fb4-445b-add8-4b99de0a154c</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID edda82a1-5a62-4f33-a068-e0e3819278ff</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
 			<_id type="a">GUID 43ea70ef-12c2-4bb5-91b0-16c8dcf27b45</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsEmitir reporte de asistencia</_name>
@@ -6185,47 +5050,527 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 6584f9f4-b539-48d8-a9be-abbd03d2c6da</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCIPAL</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::5:45:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:45:43</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCIPAL</_hname>
+					<_hid type="a">GUID 2114119f-ef70-479c-91c9-4de70f445175</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCIPAL</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID fd725eed-b5de-4ae7-8a11-a5816b6a2cdb</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID d35afc08-5391-455e-a421-1e68407b4a37</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_ACCEDER_AL_SISTEMA_DE_ASISTENCIA</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::5:45:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::5:45:48</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_ACCEDER_AL_SISTEMA_DE_ASISTENCIA</_hname>
+					<_hid type="a">GUID 1641025f-f55a-4e65-a9d1-2352c53289af</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_ACCEDER_AL_SISTEMA_DE_ASISTENCIA</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID c9c6a7d5-b7ef-4c92-8593-bf3220b177c4</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 58a8cc4c-0cb5-4ff3-af2c-ce93bca1ddc9</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCIPAL_1</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::6:4:1</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::6:4:1</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCIPAL</_hname>
+					<_hid type="a">GUID 2114119f-ef70-479c-91c9-4de70f445175</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCIPAL</_hclass>
+					<_hname type="a">itsGestor RRHH_1</_hname>
+					<_hid type="a">GUID cdb5c7c1-a386-4910-af9e-3e1124c1207f</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID f2710cb2-c262-4ef2-a320-c652fe4a1137</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_EMITIR_REPORTES_DE_ASISTENCIA</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::6:4:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::6:4:4</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_EMITIR_REPORTES_DE_ASISTENCIA</_hname>
+					<_hid type="a">GUID 05e7e186-6e6f-4387-b85a-ccdb51425a75</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_EMITIR_REPORTES_DE_ASISTENCIA</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID 86d7ae32-f115-44ea-9880-987441d5fa99</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID e9d1767c-eea9-417d-bbc4-b0cb6628b8a8</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCIPAL_2</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::6:16:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::6:16:16</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCIPAL</_hname>
+					<_hid type="a">GUID 2114119f-ef70-479c-91c9-4de70f445175</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCIPAL</_hclass>
+					<_hname type="a">itsGestor RRHH_2</_hname>
+					<_hid type="a">GUID a44cc83b-0000-43a8-80a3-7055abf3ebaf</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 3c40c926-e3e4-4c60-a4a9-4e31760009f1</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCIPAL_3</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::6:16:20</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::6:16:20</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCIPAL</_hname>
+					<_hid type="a">GUID 2114119f-ef70-479c-91c9-4de70f445175</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCIPAL</_hclass>
+					<_hname type="a">itsGestor RRHH_3</_hname>
+					<_hid type="a">GUID 77e1161b-d6d3-4c8c-a168-063e622d1b09</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 2ab6d9dc-f9c1-44d5-bcf9-174ad39561e9</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCIPAL_4</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::6:26:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::6:26:17</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCIPAL</_hname>
+					<_hid type="a">GUID 2114119f-ef70-479c-91c9-4de70f445175</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCIPAL</_hclass>
+					<_hname type="a">itsGestor RRHH_4</_hname>
+					<_hid type="a">GUID 80683e1d-9caf-4da1-a346-b5aa7851185b</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 4ad00142-de62-46bd-89e1-df987ba00ea2</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_VERIFICAR_REGISTRO_DE_ASISTENCIA</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::6:26:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::6:26:22</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_VERIFICAR_REGISTRO_DE_ASISTENCIA</_hname>
+					<_hid type="a">GUID 9429d2c0-f69a-43e0-b168-259c606f11e0</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_VERIFICAR_REGISTRO_DE_ASISTENCIA</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID c33ff680-f819-4a52-850e-293ad9505fd6</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 531bb239-3fa1-4a5a-beff-3221c4bccf25</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsClass_26</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::6:37:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::6:37:47</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">class_26</_hname>
+					<_hid type="a">GUID 0bf44ad8-92b1-41f6-9e0d-8a9bb7a8c2e3</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">class_26</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID 74bcd5c9-037b-4f50-bdbe-0414cb482fcf</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID c359fa53-4728-4a25-8214-d32d3c8fe489</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_EMITIR_REPORTE_DE_ASISTENCIA</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::6:40:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::6:40:2</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_EMITIR_REPORTE_DE_ASISTENCIA</_hname>
+					<_hid type="a">GUID 4ef3cfb7-543d-4556-9e40-047aa0be0cd3</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_EMITIR_REPORTE_DE_ASISTENCIA</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID ea259c56-7c8c-4c92-be56-65c6225abade</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 4ffbf240-3311-4120-ab94-bc3d4534c74a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCIPAL_5</_name>
+			<_modifiedTimeWeak type="a">8.19.2024::6:40:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::6:40:17</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCIPAL</_hname>
+					<_hid type="a">GUID 2114119f-ef70-479c-91c9-4de70f445175</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Asistencia.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Asistencia</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCIPAL</_hclass>
+					<_hname type="a">itsGestor RRHH_5</_hname>
+					<_hid type="a">GUID c3cf0855-d79e-4aab-bc10-94a75c7070bf</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 2521a3c4-976f-479a-811c-367bf5c565af</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCIPAL_6</_name>
+			<_modifiedTimeWeak type="a">8.18.2024::5:23:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.18.2024::5:23:51</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Evaluacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Evaluacion</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCIPAL</_hname>
+					<_hid type="a">GUID c63b17fb-99fb-4a0b-bacb-ebb40d4a3f4b</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Evaluacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Evaluacion</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCIPAL</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID 7621200a-a234-407e-b1c8-d0b9edf98429</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 393645da-9df8-488f-8e27-175b7bbab7f4</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_REGISTRO_EVALUACION</_name>
+			<_modifiedTimeWeak type="a">8.18.2024::5:28:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.18.2024::5:28:41</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Evaluacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Evaluacion</_hsubsystem>
+					<_hname type="a">CI_REGISTRO_EVALUACION</_hname>
+					<_hid type="a">GUID ffeae7b6-826a-4174-ac07-e865a33be48d</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Evaluacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Evaluacion</_hsubsystem>
+					<_hclass type="a">CI_REGISTRO_EVALUACION</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID 34aaa4cd-c8b9-40cb-94b0-bfc83f206b6e</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 8ce117b4-16a5-4abb-97a5-e105fd3e2b35</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCPAL</_name>
+			<_modifiedTimeWeak type="a">8.18.2024::5:30:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.18.2024::5:30:16</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Retroalimentacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Retroalimentacion</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCPAL</_hname>
+					<_hid type="a">GUID d5b0aea1-e30b-4d80-9a95-897e015e747c</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Retroalimentacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Retroalimentacion</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCPAL</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID 73c42d93-825e-4142-a408-e7e8a8dbd9ae</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 94b31074-932a-465f-9420-9a988be68894</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_REALIZAR_RETROALIMENTACION</_name>
+			<_modifiedTimeWeak type="a">8.18.2024::5:30:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.18.2024::5:30:19</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Retroalimentacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Retroalimentacion</_hsubsystem>
+					<_hname type="a">CI_REALIZAR_RETROALIMENTACION</_hname>
+					<_hid type="a">GUID 173b2fc4-ae10-42e6-bf99-88a9ac8ee3fe</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Retroalimentacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Retroalimentacion</_hsubsystem>
+					<_hclass type="a">CI_REALIZAR_RETROALIMENTACION</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID 38350dd5-4b71-43e8-acb2-64c368408ee0</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 4d11e335-b476-4043-99ff-855c6de33c0f</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCIPAL_7</_name>
+			<_modifiedTimeWeak type="a">8.18.2024::5:43:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.18.2024::5:43:13</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Notificacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Notificacion</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCIPAL</_hname>
+					<_hid type="a">GUID e50262e7-4815-4b3c-bf3c-ed5babb0bf44</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Notificacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Notificacion</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCIPAL</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID d78bdc1a-62f0-4532-87fb-02b89ee033c6</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 1dcf118f-7ddb-4a82-9797-21bf4b87dc0a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_AUTENTICAR_USUARIO</_name>
+			<_modifiedTimeWeak type="a">8.18.2024::5:43:22</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.18.2024::5:43:22</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Notificacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Notificacion</_hsubsystem>
+					<_hname type="a">CI_AUTENTICAR_USUARIO</_hname>
+					<_hid type="a">GUID 1db03ffd-9ddb-4121-aa70-9f63e15014cc</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Notificacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Notificacion</_hsubsystem>
+					<_hclass type="a">CI_AUTENTICAR_USUARIO</_hclass>
+					<_hname type="a">itsGestor RRHH</_hname>
+					<_hid type="a">GUID 02386a61-d35b-4776-9a80-295b1741b014</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID d449d248-57cc-4fe5-b76c-69033cf5ae95</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Empleado</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::8:2:14</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:2:14</_modifiedTime>
-			<weakCGTime type="a">9.15.2024::8:2:14</weakCGTime>
-			<strongCGTime type="a">9.15.2024::7:43:15</strongCGTime>
+			<_modifiedTimeWeak type="a">8.18.2024::5:41:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Notificacion.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Notificacion</_hsubsystem>
+					<_hclass type="a">Autenticar Usuario</_hclass>
+					<_hname type="a">DC_AUTENTICAR_USUARIO</_hname>
+					<_hid type="a">GUID 3cb23740-e7ad-4263-bf9c-235000023826</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">8.18.2024::5:41:0</_modifiedTime>
+			<weakCGTime type="a">8.18.2024::5:41:0</weakCGTime>
+			<strongCGTime type="a">8.19.2024::5:22:48</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
-				<value>GUID 3f307e02-4636-48c3-9716-dc0f5a96a59b</value>
 				<value>GUID dbd78f6e-3eea-4392-9e8b-c268ac1e77fa</value>
 				<value>GUID 6f10594a-fd40-42a2-b11c-5b7915dfb05a</value>
 			</AggregatesList>
 		</IActor>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID 3f307e02-4636-48c3-9716-dc0f5a96a59b</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsValidar registros de asistencia</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:2:4</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID 1ea49bef-f98b-4738-864b-056e5d1388a8</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID cabf9fc0-5f13-4998-8862-57ac682f08e5</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
 		<IAssociationEnd type="e">
 			<_id type="a">GUID dbd78f6e-3eea-4392-9e8b-c268ac1e77fa</_id>
 			<_myState type="a">10240</_myState>
@@ -6274,46 +5619,35 @@
 			<_id type="a">GUID d0465dfc-27a9-4b42-81d4-567a7b712230</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Administrador de Sistema</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::8:1:30</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:1:30</_modifiedTime>
-			<weakCGTime type="a">9.15.2024::8:1:30</weakCGTime>
-			<strongCGTime type="a">9.15.2024::7:43:36</strongCGTime>
+			<_modifiedTimeWeak type="a">8.18.2024::5:34:45</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\Empleado.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Empleado</_hsubsystem>
+					<_hclass type="a">Registrar datos de empleado</_hclass>
+					<_hname type="a">DC_REGISTRAR_DATOS_DE_EMPLEADO</_hname>
+					<_hid type="a">GUID bd6b83a5-b4e7-4235-a0ba-916f99346588</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">8.18.2024::5:34:45</_modifiedTime>
+			<weakCGTime type="a">8.18.2024::5:34:45</weakCGTime>
+			<strongCGTime type="a">8.19.2024::5:22:48</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
-				<value>GUID 662c6f9f-ce79-455e-a0ec-9473d275fdcc</value>
 				<value>GUID c4c331a4-a469-4a24-8698-21ce75f95aea</value>
 				<value>GUID d4f292a4-7d60-4cd4-9db0-9d7227523080</value>
 				<value>GUID 25ebf823-d646-4ac1-9773-77bf7f742d33</value>
 				<value>GUID e94bd280-29f5-4ddb-99da-341402d265f0</value>
 				<value>GUID d799d13f-80d6-4020-bff7-6904924652a6</value>
+				<value>GUID dc67d75b-6ca4-43ea-8191-40cbc5094354</value>
+				<value>GUID b8e45def-dd2f-4715-8bf3-9601925ef70a</value>
 			</AggregatesList>
 		</IActor>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID 662c6f9f-ce79-455e-a0ec-9473d275fdcc</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsGestionar incidencias</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">9.15.2024::8:1:2</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID d188c94c-55ad-49c9-b7bc-20bb9e5fbe26</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hid type="a">GUID a13de8c6-453d-483b-865c-5d05036713cf</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
 		<IAssociationEnd type="e">
 			<_id type="a">GUID c4c331a4-a469-4a24-8698-21ce75f95aea</_id>
 			<_myState type="a">10240</_myState>
@@ -6419,6 +5753,64 @@
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
 					<_hid type="a">GUID 2bcd4cdc-3511-42e8-840c-a776bb076dc1</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID dc67d75b-6ca4-43ea-8191-40cbc5094354</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_MENU_PRINCIPAL</_name>
+			<_modifiedTimeWeak type="a">8.18.2024::5:34:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.18.2024::5:34:39</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Empleado.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Empleado</_hsubsystem>
+					<_hname type="a">CI_MENU_PRINCIPAL</_hname>
+					<_hid type="a">GUID 0a827d1a-68a9-457a-8107-ff69e62632d0</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Empleado.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Empleado</_hsubsystem>
+					<_hclass type="a">CI_MENU_PRINCIPAL</_hclass>
+					<_hname type="a">itsAdministrador de Sistema</_hname>
+					<_hid type="a">GUID 637aeba8-1197-4161-ad5c-ec8963cd5c93</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID b8e45def-dd2f-4715-8bf3-9601925ef70a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsCI_ADMINISTRADOR_DE_REDES</_name>
+			<_modifiedTimeWeak type="a">8.18.2024::5:34:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.18.2024::5:34:45</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\Empleado.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Empleado</_hsubsystem>
+					<_hname type="a">CI_ADMINISTRADOR_DE_REDES</_hname>
+					<_hid type="a">GUID 9fe20e41-9094-459c-8a9d-b7f7e0162d2c</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\Empleado.sbsx</_hfilename>
+					<_hsubsystem type="a">MA::Empleado</_hsubsystem>
+					<_hclass type="a">CI_ADMINISTRADOR_DE_REDES</_hclass>
+					<_hname type="a">itsAdministrador de Sistema</_hname>
+					<_hid type="a">GUID 40d6f86f-f328-4ad3-9848-73c18e47ef3f</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
