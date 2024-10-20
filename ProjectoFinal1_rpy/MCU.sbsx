@@ -12,7 +12,7 @@
 			<_id type="a">GUID 268a041b-0527-4bfe-a1f0-9ab1f483bfd0</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::5:19:30</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::5:41:53</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,7 +22,7 @@
 			</_theMainDiagram>
 			<_modifiedTime type="a">9.15.2024::7:25:8</_modifiedTime>
 			<_lastID type="a">30</_lastID>
-			<weakCGTime type="a">9.15.2024::5:19:30</weakCGTime>
+			<weakCGTime type="a">9.15.2024::5:41:53</weakCGTime>
 			<strongCGTime type="a">9.15.2024::7:35:31</strongCGTime>
 			<_defaultComposite type="s">GUID b191fdb8-9fd1-4599-83e7-ca9ac1f06f3c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -4926,7 +4926,7 @@
 			<_id type="a">GUID 7cb90d61-1d5e-47ed-a57b-153075843613</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Gestor RRHH</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::5:19:32</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">9.15.2024::5:41:58</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -4937,8 +4937,8 @@
 					<_hid type="a">GUID f8fd4b5e-462a-499b-ac32-136012e792f3</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">9.15.2024::5:19:32</_modifiedTime>
-			<weakCGTime type="a">9.15.2024::5:19:32</weakCGTime>
+			<_modifiedTime type="a">9.15.2024::5:41:58</_modifiedTime>
+			<weakCGTime type="a">9.15.2024::5:41:58</weakCGTime>
 			<strongCGTime type="a">8.19.2024::5:22:48</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4968,6 +4968,8 @@
 				<value>GUID 1dcf118f-7ddb-4a82-9797-21bf4b87dc0a</value>
 				<value>GUID 3c9ed460-ba6f-46dd-b42d-e1ed56ca565a</value>
 				<value>GUID 0c61ff84-de3d-4cb5-a94c-3929b9134898</value>
+				<value>GUID 74fb43d7-a020-411d-895a-6ff7e80b9b32</value>
+				<value>GUID ef031e18-2628-4940-97b9-80492648a383</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -5552,6 +5554,52 @@
 					<_hsubsystem type="a">MD</_hsubsystem>
 					<_hname type="a">FormAccederSistemaAsistencia</_hname>
 					<_hid type="a">GUID 01370c27-6e69-48e4-b57f-93b0a820c932</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 74fb43d7-a020-411d-895a-6ff7e80b9b32</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrincipal_jsp_Client_1</_name>
+			<_modifiedTimeWeak type="a">9.15.2024::5:41:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::5:41:53</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MD.sbsx</_hfilename>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">MenuPrincipal_jsp_Client</_hname>
+					<_hid type="a">GUID a6909523-f145-46f2-9dfd-18deeb51430b</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID ef031e18-2628-4940-97b9-80492648a383</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsFromEmitirReporteDeAsistencia</_name>
+			<_modifiedTimeWeak type="a">9.15.2024::5:41:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.15.2024::5:41:58</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MD.sbsx</_hfilename>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">FromEmitirReporteDeAsistencia</_hname>
+					<_hid type="a">GUID ec464d13-509a-4a8e-b33f-cb2aa52948f4</_hid>
 				</IClassifierHandle>
 			</_otherClass>
 			<_inverse type="r">
