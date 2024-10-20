@@ -12,7 +12,7 @@
 			<_id type="a">GUID 268a041b-0527-4bfe-a1f0-9ab1f483bfd0</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::5:41:53</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">10.20.2024::17:29:16</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -20,9 +20,9 @@
 					<_hid type="a">GUID 6bc4a0d8-2cd7-49db-af87-2a7ff3cf3ebf</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">9.15.2024::7:25:8</_modifiedTime>
+			<_modifiedTime type="a">10.20.2024::18:3:25</_modifiedTime>
 			<_lastID type="a">30</_lastID>
-			<weakCGTime type="a">9.15.2024::5:41:53</weakCGTime>
+			<weakCGTime type="a">10.20.2024::17:29:16</weakCGTime>
 			<strongCGTime type="a">9.15.2024::7:35:31</strongCGTime>
 			<_defaultComposite type="s">GUID b191fdb8-9fd1-4599-83e7-ca9ac1f06f3c</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -4926,7 +4926,7 @@
 			<_id type="a">GUID 7cb90d61-1d5e-47ed-a57b-153075843613</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Gestor RRHH</_name>
-			<_modifiedTimeWeak type="a">9.15.2024::5:41:58</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">10.20.2024::16:31:11</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -4937,8 +4937,8 @@
 					<_hid type="a">GUID f8fd4b5e-462a-499b-ac32-136012e792f3</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">9.15.2024::5:41:58</_modifiedTime>
-			<weakCGTime type="a">9.15.2024::5:41:58</weakCGTime>
+			<_modifiedTime type="a">10.20.2024::16:31:11</_modifiedTime>
+			<weakCGTime type="a">10.20.2024::16:31:11</weakCGTime>
 			<strongCGTime type="a">8.19.2024::5:22:48</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -4970,6 +4970,9 @@
 				<value>GUID 0c61ff84-de3d-4cb5-a94c-3929b9134898</value>
 				<value>GUID 74fb43d7-a020-411d-895a-6ff7e80b9b32</value>
 				<value>GUID ef031e18-2628-4940-97b9-80492648a383</value>
+				<value>GUID e70c843c-e164-45eb-933b-fb5efa133aed</value>
+				<value>GUID 25adf061-3ded-4ed0-9a18-200914668bd7</value>
+				<value>GUID a2577773-4e14-4a06-87af-0f77200553c9</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -5609,6 +5612,75 @@
 			<_linkType type="a">Assoc</_linkType>
 			<_navigability type="a">Navigable</_navigability>
 		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID e70c843c-e164-45eb-933b-fb5efa133aed</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrincipal_JSp_Empleado</_name>
+			<_modifiedTimeWeak type="a">10.20.2024::16:28:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.20.2024::16:28:54</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MD.sbsx</_hfilename>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">MenuPrincipal_JSp_Empleado</_hname>
+					<_hid type="a">GUID 5e68695c-9477-47d7-880a-6c738b14df2f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 25adf061-3ded-4ed0-9a18-200914668bd7</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrincipal_JSp_Empleado_1</_name>
+			<_modifiedTimeWeak type="a">10.20.2024::16:29:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.20.2024::16:29:29</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MD.sbsx</_hfilename>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">MenuPrincipal_JSp_Empleado</_hname>
+					<_hid type="a">GUID 5e68695c-9477-47d7-880a-6c738b14df2f</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID a2577773-4e14-4a06-87af-0f77200553c9</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsFormRealizarRetroaalimentacion</_name>
+			<_modifiedTimeWeak type="a">10.20.2024::16:31:11</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.20.2024::16:31:11</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MD.sbsx</_hfilename>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">FormRealizarRetroaalimentacion</_hname>
+					<_hid type="a">GUID 3cebe488-b5eb-4f5f-98d4-6c60e0332def</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
 		<IActor type="e">
 			<_id type="a">GUID d449d248-57cc-4fe5-b76c-69033cf5ae95</_id>
 			<_myState type="a">8192</_myState>
@@ -5685,7 +5757,7 @@
 			<_id type="a">GUID d0465dfc-27a9-4b42-81d4-567a7b712230</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Administrador de Sistema</_name>
-			<_modifiedTimeWeak type="a">8.18.2024::5:34:45</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">10.20.2024::17:29:29</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -5696,8 +5768,8 @@
 					<_hid type="a">GUID bd6b83a5-b4e7-4235-a0ba-916f99346588</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">8.18.2024::5:34:45</_modifiedTime>
-			<weakCGTime type="a">8.18.2024::5:34:45</weakCGTime>
+			<_modifiedTime type="a">10.20.2024::17:29:29</_modifiedTime>
+			<weakCGTime type="a">10.20.2024::17:29:29</weakCGTime>
 			<strongCGTime type="a">8.19.2024::5:22:48</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -5712,6 +5784,8 @@
 				<value>GUID d799d13f-80d6-4020-bff7-6904924652a6</value>
 				<value>GUID dc67d75b-6ca4-43ea-8191-40cbc5094354</value>
 				<value>GUID b8e45def-dd2f-4715-8bf3-9601925ef70a</value>
+				<value>GUID cbedccf1-165c-4a77-8c92-efe8bff5d9ba</value>
+				<value>GUID 53628711-89ef-46f7-ba56-2584a6d85164</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
@@ -5877,6 +5951,52 @@
 					<_hclass type="a">CI_ADMINISTRADOR_DE_REDES</_hclass>
 					<_hname type="a">itsAdministrador de Sistema</_hname>
 					<_hid type="a">GUID 40d6f86f-f328-4ad3-9848-73c18e47ef3f</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID cbedccf1-165c-4a77-8c92-efe8bff5d9ba</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsMenuPrincipal_jsp_Empleado</_name>
+			<_modifiedTimeWeak type="a">10.20.2024::17:29:16</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.20.2024::17:29:16</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MD.sbsx</_hfilename>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">MenuPrincipal_jsp_Empleado</_hname>
+					<_hid type="a">GUID c91af729-ac53-4c8f-ac94-147e2bb9a09e</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 53628711-89ef-46f7-ba56-2584a6d85164</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsFormAdministradorDeRedes</_name>
+			<_modifiedTimeWeak type="a">10.20.2024::17:29:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.20.2024::17:29:29</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hfilename type="a">.\MD.sbsx</_hfilename>
+					<_hsubsystem type="a">MD</_hsubsystem>
+					<_hname type="a">FormAdministradorDeRedes</_hname>
+					<_hid type="a">GUID 35b51ff0-3e70-4e27-a3e4-2bb54f4faa0c</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
