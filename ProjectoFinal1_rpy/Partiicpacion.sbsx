@@ -12,7 +12,7 @@
 			<_id type="a">GUID ecbf0c21-10b8-4330-b4f7-3d70e8b06ca5</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Partiicpacion</_name>
-			<_modifiedTimeWeak type="a">8.19.2024::5:28:39</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">8.19.2024::1:7:33</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -22,15 +22,16 @@
 					<_hid type="a">GUID 4650b7e7-2ffa-40f6-a5d5-249428190629</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">8.19.2024::5:28:39</_modifiedTime>
-			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">8.19.2024::5:28:39</weakCGTime>
-			<strongCGTime type="a">8.19.2024::5:15:20</strongCGTime>
+			<_modifiedTime type="a">8.19.2024::1:7:33</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">8.19.2024::5:15:20</weakCGTime>
+			<strongCGTime type="a">8.19.2024::0:47:39</strongCGTime>
 			<_defaultComposite type="s">GUID b7dcb7df-3830-4f7a-99be-2482c8742f51</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID ccd0465f-7fe4-457a-a761-e36e292b073e</value>
+				<value>GUID b4bf1791-5a76-450d-800c-a26c7ef02f51</value>
 				<value>GUID b7dcb7df-3830-4f7a-99be-2482c8742f51</value>
 				<value>GUID 7c5a9754-1029-48bc-bd14-132002263657</value>
 				<value>GUID 5bd19f78-0e0f-461b-a32c-82fbedbab27e</value>
@@ -58,14 +59,121 @@
 				</INObjectHandle>
 			</_dependent>
 		</IDependency>
+		<ICollaborationDiagram type="e">
+			<_id type="a">GUID b4bf1791-5a76-450d-800c-a26c7ef02f51</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DCO DEL CU EMITIR CONSTANCIA DE PARTICIPACI%D3N</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">8.19.2024::1:8:15</_modifiedTime>
+			<_lastModifiedTime type="a">8.19.2024::1:8:15</_lastModifiedTime>
+			<m_hReferencedDiagram type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_hReferencedDiagram>
+			<_defaultSubsystem type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID ecbf0c21-10b8-4330-b4f7-3d70e8b06ca5</_hid>
+				</IHandle>
+			</_defaultSubsystem>
+			<AggregatesList type="e">
+				<value>GUID baeee6a7-17a1-4a48-9075-deaa4d4e2c76</value>
+				<value>GUID e5a4e7f4-ccc6-4d48-aa8c-48c2f889e108</value>
+			</AggregatesList>
+		</ICollaborationDiagram>
+		<CCollaborationChart type="e">
+			<_id type="a">GUID baeee6a7-17a1-4a48-9075-deaa4d4e2c76</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ICollaboration</_hm2Class>
+					<_hid type="a">GUID e5a4e7f4-ccc6-4d48-aa8c-48c2f889e108</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4096</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<elementList type="a">1</elementList>
+			
+			<m_access type="a">'Z'</m_access>
+			<m_modified type="a">'N'</m_modified>
+			<m_nModifyDate type="a">0</m_nModifyDate>
+			<m_nCreateDate type="a">0</m_nCreateDate>
+			<m_bScaleWithZoom type="a">1</m_bScaleWithZoom>
+			<m_arrowStyle type="a">'S'</m_arrowStyle>
+			<m_pRoot type="s">GUID 5ce56c34-966b-441e-ad7f-008ae1c8bf6f</m_pRoot>
+			<m_currentLeftTop type="a">0 0 </m_currentLeftTop>
+			<m_currentRightBottom type="a">0 0 </m_currentRightBottom>
+			<m_bFreezeCompartmentContent type="a">0</m_bFreezeCompartmentContent>
+			<AggregatesList type="e">
+				<value>GUID 5ce56c34-966b-441e-ad7f-008ae1c8bf6f</value>
+			</AggregatesList>
+		</CCollaborationChart>
+		<CGIBox type="e">
+			<_id type="a">GUID 5ce56c34-966b-441e-ad7f-008ae1c8bf6f</_id>
+			<m_type type="a">154</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ICollaboration</_hm2Class>
+					<_hid type="a">GUID e5a4e7f4-ccc6-4d48-aa8c-48c2f889e108</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_polygon type="a">0 </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIBox>
+		<ICollaboration type="e">
+			<_id type="a">GUID e5a4e7f4-ccc6-4d48-aa8c-48c2f889e108</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<p_MessageHandler type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</p_MessageHandler>
+		</ICollaboration>
 		<IClass type="e">
 			<_id type="a">GUID b7dcb7df-3830-4f7a-99be-2482c8742f51</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_modifiedTimeWeak type="a">8.19.2024::0:47:39</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
+			<weakCGTime type="a">8.19.2024::0:47:39</weakCGTime>
+			<strongCGTime type="a">8.19.2024::0:47:39</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
