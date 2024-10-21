@@ -1,3 +1,9 @@
 2024-08-18 19:47:19.032-05:00 DESKTOP-NQ4NFVL CRRHP0010I Cannot add elements from non-active project to Favorites list!
 2024-08-18 19:47:21.032-05:00 DESKTOP-NQ4NFVL CRRHP0010I Cannot add elements from non-active project to Favorites list!
 2024-08-18 19:47:21.750-05:00 DESKTOP-NQ4NFVL CRRHP0010I Cannot add elements from non-active project to Favorites list!
+2024-08-19 18:19:38.828-05:00 DESKTOP-NQ4NFVL CRRHP0010I The Class MenuPrincipal in MD already exists do you want to reference it?
+2024-08-19 18:27:00.063-05:00 DESKTOP-NQ4NFVL CRRHP0010I The Class MenuPrincipal_jsp in MD already exists do you want to reference it?
+2024-08-19 18:30:48.985-05:00 DESKTOP-NQ4NFVL CRRHP0010I The Class FormRegistroEvaluacion in MD already exists do you want to reference it?
+2024-08-19 20:03:23.313-05:00 DESKTOP-NQ4NFVL CRRHP0010I The Class DAOFactory in MD already exists do you want to reference it?
+2024-08-19 20:03:53.547-05:00 DESKTOP-NQ4NFVL CRRHP0010I The Class MySQLDAOFactory in MD already exists do you want to reference it?
+2024-08-19 20:04:55.485-05:00 DESKTOP-NQ4NFVL CRRHP0010I The Class ConectaDB in MD already exists do you want to reference it?
